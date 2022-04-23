@@ -1,0 +1,22 @@
+Featured Politics Social Media Privacy Misinformation
+Hacked NSA tools could put some Windows users at risk
+A hacking group says it leaked government malware designed to break into Windows computers. But Microsoft says its up-to-date software is safe.
+Patrick Holland
+April 15, 2017 2:00 p.m. PT
+Patrick Holland
+Senior Associate Editor
+Patrick Holland has worn many hats in his life: director, playwright, filmmaker, editor, actor, photographer, barista, carpenter, movie usher, and bakery truck driver! He's been a tech enthusiast dating back to when he had a Tandy Color Computer as a kid.
+Hacking group Shadow Brokers says it has released NSA hacking tools.
+Getty Images
+The hacking group known as Shadow Brokers says it has released National Security Agency malware designed for breaking in to Windows computers. The software could make millions of Microsoft users vulnerable to malicious parties.
+As reported by CNET sister site ZDNet, the NSA software enables its users to hack into and even control all versions of Windows computers except those running Windows 10 .
+Microsoft said the exploits disclosed by Shadow Brokers have already been addressed by previous software updates. A Microsoft representative said "customers with up-to-date software are already protected."
+The company has posted more information in a blog post on its website.
+The NSA didn't respond to a request for comment.
+This isn't the first US intelligence agency to have tools leaked to the public. Just last month, WikiLeaks released techniques it says the CIA used for breaking into phones, computers, cars and smart TVs .
+First published April 14, 2:11 p.m. PT.
+Update, 4:03 p.m.: Adds comment from Microsoft.
+Update, April 15 at 2:00 p.m.: Adds additional comment from Microsoft and a link to a Microsoft blog post detailing the exploit.
+Get the CNET Windows Report newsletter
+Get smarter with the latest Microsoft news, reviews and advice on Windows PCs. Delivered Wednesdays.
+

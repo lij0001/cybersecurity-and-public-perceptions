@@ -1,0 +1,42 @@
+Here’s How Much Yahoo Shares Are Dropping After Latest Hack Reveal
+BY REUTERS
+December 15, 2016 10:03 AM CST
+
+Yahoo shares fell almost 5% on Thursday after the technology company disclosed a second massive data breach that raised fears Verizon might kill a deal to buy its core Internet business.
+
+Silicon Valley-based Yahoo said late on Wednesday that it had uncovered a 2013 cyber attack that compromised data of more than 1 billion user accounts, the largest breach in history.
+
+That followed Yahoo’s disclosure in September of a separate breach that affected over 500 million accounts, which the company said it believed was launched by different hackers.
+
+Yahoo (YHOO) shares were down 4.8% at $38.93 in midday trade as the latest revelation cast new doubt on whether Verizon Communications would proceed with a $4.83 billion agreement to buy Yahoo’s core Internet business, struck in July.
+
+Verizon is now seeking to persuade Yahoo to amend the terms of the acquisition agreement to reflect the economic impact of the data breaches, according to people familiar with the matter.
+
+The telecommunications giant has threatened to go to court to get out of the deal, citing a material adverse effect if the deal does not reprice, said the sources, who asked not to be identified because the negotiations are confidential.
+
+Verizon had already said in October it was reviewing the deal after September’s breach disclosure. Late on Wednesday, it publicly said it would “review the impact of this new development before reaching any final conclusions” about whether to proceed.
+
+The company declined to comment beyond that statement on Thursday.
+
+Verizon (VZ) shares rose 0.6% to $51.95, in line with the performance of the S&P 500 Index..
+
+The latest breach attack has drawn widespread criticism of Yahoo from security experts, several of whom have advised consumers to close their Yahoo accounts.
+
+“Yahoo has fallen down on security in so many ways I have to recommend that if you have an active Yahoo email account, either direct with Yahoo of via a partner like AT&T, get rid of it,” Stu Sjouwerman, chief executive of cyber security firm KnowBe4 Inc, said in a broadly distributed email.
+
+‘Deeply Troubling’
+
+Democratic Senator Mark Warner of Virginia said he was looking into Yahoo’s cyber security practices.
+
+“This most-recent revelation warrants a separate follow-up and I plan to press the company on why its cyber defenses have been so weak as to have compromised over a billion users,” he said in a statement.
+
+Warner, who will become the top Democrat on the Senate Intelligence Committee next year, described the hacks as “deeply troubling.” He said he had repeatedly asked Yahoo for briefings about the 2014 hack, which affected 500 million accounts, but had not received a response.
+
+After the 2014 hack, which was disclosed in September, Warner asked the U.S. Securities and Exchange Commission to investigate whether Yahoo had fulfilled obligations to inform investors and the public about it.
+
+“If a breach occurs, consumers should not be first learning of it three years later,” Warner said on Thursday. “Prompt notification enables users to potentially limit the harm of a breach of this kind, particularly when it may have exposed authentication information such as security question answers they may have used on other sites.”
+
+Yahoo has said the data stolen from more than 1 billion user accounts may have included names, email addresses, telephone numbers, dates of birth, hashed passwords and, in some cases, encrypted or unencrypted security questions and answers.
+
+Up to Wednesday’s close, Yahoo’s stock had fallen more than 7% since the first breach was announced in September.
+

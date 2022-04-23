@@ -1,0 +1,13 @@
+Share to Linkedin
+IRS headquarters building in Washington, D.C. Photographer: Andrew Harrer/Bloomberg
+The IRS has filed an amended statement on the 'Get Transcript' hack -- which reports that 700,000 U.S. taxpayer accounts were accessed or targeted, and 47 million transcripts have been ordered to date.
+In January 2014, Get Transcript launched on the IRS website. The application enabled taxpayers to view and download their transcript or order previous years of tax filing information.
+On May 26, 2015, the IRS announced it had discovered that cyber criminals -- using taxpayer information stolen elsewhere -- accessed the Get Transcript application on IRS.gov . The IRS identified approximately 225,000 taxpayers whose transcripts had been accessed or targeted. In August 2015, the IRS announced it had identified approximately 390,000 additional taxpayer transcripts which had been access or targeted - which brought the total number of hacked accounts to 615,000.
+The Treasury Inspector General for Tax Administration conducted a nine-month long investigation looking back to the launch of the application in January 2014 for additional suspicious activity - which led to the amended reporting of approximately 700,000 hacked accounts to date.
+The IRS is notifying the hacked taxpayers by mail -- informing that they have been victims and cyber thieves may have their personal information, and providing guidance.
+“The IRS is committed to protecting taxpayers on multiple fronts against tax-related identity theft, and these mailings are part of that effort,” IRS Commissioner John Koskinen said. “We appreciate the work of the Treasury Inspector General for Tax Administration to identify these additional taxpayers whose accounts may have been accessed. We are moving quickly to help these taxpayers.”
+The online viewing and download feature of “Get Transcript” has been suspended since May 2015. The IRS is working to restore that part of the service with enhanced security to protect taxpayer identities.
+Post-hack reporting by the U.S. government usually gets worse over time. When OPM was hacked, the first reported numbers indicated four million people had their personal information exposed. The final tally was nearly 22 million.
+Visit SteveOnCyber.com to read all of my blogs and articles covering cybersecurity.
+Follow me on Twitter @CybersecuritySF or connect with me on LinkedIn . Send story tips, feedback, and suggestions to me here .
+

@@ -1,0 +1,25 @@
+Hackers Are Holding The City of Atlanta Hostage
+It could be the first of many cities to face the problem.
+Image by raneko/Emily Cho
+The city of Atlanta has been hacked.
+On the morning of March 22, a remote ransomware attack trapped the city’s data behind an encrypted wall that will only be lowered if the city coughs up a $51,000 ransom, paid out in bitcoin.
+For now, the city is working to come up with a solution to get past the attack without paying its ransom, bringing in “best in class external partners” to guide the fix, according to Atlanta news station WSB-TV .
+But five days in, the effects are profound, crippling some of the city’s critical functions. As of March 27, city employees remain without email or internet access; residents cannot pay their electric bills; wi-fi is shut down at the Atlanta International Airport; and many departments — including the city jail — “are running on pen and paper while there is no access to electronic records for municipal court,” according to a report from Georgia Public Broadcasting, NPR reports.
+Advertisement
+Advertisement
+“This is much bigger than a ransomware attack, this really is an attack on our government,” Atlanta Mayor Keisha Lance Bottoms said at a news conference, Reuters reports . “We are dealing with a (cyber) hostage situation.”
+The mayor also warned Atlanta city employees and residents to keep an eye on their bank accounts, and to shore up the security around their personal information, just in case.
+“I wish that I could say it would be the last time, but it really never is the last time. We just have to make sure that we’re doing all that we can do and making the investments in the city to be as protected as possible,” Bottoms told WSB-TV.
+Experts have warned that cybersecurity is likely the next great security threat for governments and companies around the world, and that most systems are simply not prepared . Indeed, Atlanta isn’t the first U.S city to be hit by ransomware — the Colorado Department of Transportation has already been hit twice in 2018 . However, the Atlanta attack seems to the most thorough, city-wide cybersecurity breach yet. And though some companies have ramped up security following attacks, as Atlanta plans to do, it seems that most cities aren’t adapting their security before an attack happens.
+Advertisement
+Advertisement
+That’s bad news, because cities will likely be at particular risk moving forward. Many are seeking to automate processes that humans used to do, and more city systems are connected via the Internet of Things. These future “smart cities” plan to digitize huge portions of city infrastructure — street lights , traffic systems, pollution monitoring, water systems, and even city residents’ vehicles.
+“The potential attack surfaces of a city is a huge challenge,” David Raymond, deputy director of Virginia Tech’s IT Security Lab, said to The Washington Post on potentially hacking cities in 2015. “The digital pathways between all of the entities and organizations in a city is often not well managed. In many cases, there’s no overarching security architecture or even understanding of holistically what the city looks like.”
+“No one is thinking about the security implications,” he added.
+It’s not yet clear at what point Atlanta will give in and pay the ransom to get its data back. But as more cities rely on digital processes, the dangers to both citizen privacy and security are going to multiply. Imagine a hack that takes out not just a city’s computer systems, but also its electrical power, plumbing, and even control of your own car.
+Advertisement
+Advertisement
+If the future lives up to even a fraction of these predictions, Atlanta may have gotten off easy.
+Care about supporting clean energy adoption? Find out how much money (and planet!) you could save by switching to solar power at UnderstandSolar.com . By signing up through this link , Futurism.com may receive a small commission.
+Share This Article
+

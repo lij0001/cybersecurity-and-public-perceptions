@@ -1,0 +1,24 @@
+Suspect trading in Equifax options before breach might have generated millions in profit
+Published Fri, Sep 8 201711:43 AM EDT
+Updated Fri, Sep 8 20173:44 PM EDT
+WATCH LIVE
+Key Points
+Shares of Equifax tumbled in after-market trading Thursday and during market hours on Friday, falling nearly 14 percent, to $122.
+Equifax options trade infrequently, with just under 260 contracts in July, roughly 13 a day.
+On August 21, 2,600 contracts were bought giving the owner the right to sell Equifax shares at $135 in September.
+VIDEO3:3503:35
+Halftime Report
+Unusual trading in options in mid-August suggests millions of dollars in profit were generated after Thursday's disclosure of a massive data breach at the credit reporting company affecting 143 million consumers and their personal information.
+Shares of Equifax tumbled nearly 14 percent on Friday in the wake of the disclosure of the breach. Until Thursday, they had been up about 20 percent for the year.
+Jon Najarian , a trader and CNBC contributor, said Equifax options trade infrequently. As an example, in the entire month of July, Equifax put options traded just under 260 contracts, or about 13 contracts a day.
+But Aug. 21 was different. Najarian pointed to activity in Equifax puts that day, when 10 times as many were bought than in the entire preceding month.
+Specifically, Najarian said, 2,600 contracts, giving the owner the right to sell 260,000 shares of Equifax at $135 in September, were purchased for 60 to 70 cents each.
+Put options, which give the holder the right to sell an asset at a certain price at a point in the future, are essentially bets the underlying shares will fall.
+Najarian, also a co-founder of Investitute.com , calculates it was an investment of at least $156,000.
+When Thursday's news broke, Equifax shares tanked from $142.72 to an after-hours low of $118.
+At that low level, the right to sell those shares at $135 would be worth $17 each, which means the profit on them would be $16.30 to $16.40 because they were purchased for 60 to 70 cents each, according to Najarian's math. The trade's total profit would have been about $4.2 million.
+Three Equifax executives sold $1.8 million of their holdings of Equifax in early August,  just days after the credit reporting company discovered the breach internally but more than a month before that breach was announced to the public. Regulatory filings show the executives sold at around $145 a share. The sales don't appear to be the type of regularly scheduled incremental sales that insiders typically use when selling their company holdings.
+Equifax acknowledged in a statement that the three executives sold a "small percentage" of their shares, but that they "had no knowledge that an intrusion had occurred at the time they sold their shares."
+A spokesman for the Securities and Exchange Commission had no comment when asked if the agency was looking into unusual activity in Equifax options. An Equifax spokesperson did not yet return a call for comment on the options trading.
+Join CNBC, the Aspen Institute and the most influential cybersecurity players from government, business and tech at the Cambridge Cyber Summit, October 4 in Boston.
+

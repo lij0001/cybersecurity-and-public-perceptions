@@ -1,0 +1,39 @@
+Search
+Search:
+eBay Data Breach Response Teaches Everyone How Not to Handle a Crisis
+By Leo Sun - 
+  
+    
+      May 27, 2014 at 9:41AM
+You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More
+Current Price
+$56.02
+Was eBay’s response to its data breach, which could affect up to 233 million registered accounts, worse than the data breach itself?
+eBay ( EBAY 0.63% ), which was recently hit by a cyber attack that exposed the personal data of up to 233 million registered accounts, is now being investigated by three states -- Connecticut, Florida, and Illinois -- in a joint probe into the e-commerce giant's security practices.
+eBay's response to the crisis, which unfolded over the past week, has been criticized as being more embarrassing than the attack itself. It took eBay three months to notice the data breach, after which it waited two weeks to make an announcement.
+The company then failed to send out a mass email in a timely manner to customers, who were mostly informed via news outlets. When eBay finally posted a warning at the top of its website, it contained a "Learn More" link that led to a blank page (which remains blank at the time of this writing). A few days ago, customers were also confused by empty "Placeholder Text" in PayPal's blog entry about the data breach.
+eBay's response: "Placeholder Text" and a "Learn More" link that goes nowhere. Source: Author's screenshot, Unwire.hk.
+At the same time, eBay tried to downplay the severity of the data breach, stating that its 145 million active users, rather than its 233 million registered accounts, were affected. It also emphasized that no financial records were exposed, since PayPal had not been breached.
+However, eBay confirmed that users' real names, home addresses, phone numbers, and email addresses had all been leaked.
+In a previous article, I discussed the reasons that the breach occurred. Today, we'll discuss what eBay's response to the data breach reveals about the company's business.
+The right and wrong way to handle data breachesMajor crises like eBay's data breach quickly expose which companies are well run, and which are not.
+Adobe ( ADBE 2.02% ), which had 38 million passwords and the source code to several programs stolen last October, was praised by cybersecurity experts for its quick and honest response to the attack. Adobe, being a Silicon Valley-based tech company, was clearly ready to contain the damage even though its security measures had failed.
+On the other hand, Target's ( TGT 2.46% ) response to the theft of approximately 40 million credit card records and 110 million personal data records last December was sluggish and disorganized. Target waited for a week before announcing the data breach, and after it did so, it was unprepared to handle the deluge of incoming calls and emails from panicked customers. That poor crisis response ultimately led to the resignation of CEO Gregg Steinhafel earlier this month.
+What eBay's response tells us about eBay's businesseBay's response was notably worse than Target's. First, it waited two weeks instead of one to notify investors and customers. It then ignored the two most obvious ways to contain the damage -- sending out a timely mass email to its registered users and posting a large warning at the top of its website.
+After customers complained that they were reading about the data breach online without receiving any notifications from eBay, the company responded by telling customers via a tweet that it would "take time" for eBay users to receive the reset email. Meanwhile broken links and "Placeholder Text" just reinforced the perception that eBay was not prepared to handle the crisis.
+In a response published by Reuters, cyber forensics expert David Kennedy, the CEO of TrustedSEC LLC, stated that "eBay should be held to a higher standard."
+Do investors matter more than customers?What's puzzling about the broken "Learn More" link on eBay's customer-facing website, www . ebay . com , is that the company's investor-facing website, www . ebayinc . com , prominently features useful information about the data breach.
+No one at eBay took the time to simply connect the broken link on the customer site to the corporate news update. Whether or not that was intentional, it sends a bad message to customers -- investors matter more than customers.
+Left: eBay's customers get a tiny broken link. Right: eBay's investors get a prominent update with a working link. Source: Author's screenshots, May 26 8:20 a.m. EST.
+I believe that the error was unintentional, but it clearly reveals that eBay's left arm clearly isn't communicating with its right one. In my opinion, eBay should be spending more time controlling the damage among customers -- its most valuable asset -- rather than assuring investors that all is well.
+The two morals of this storyeBay and Adobe both fell to hackers for the same reason. They were using less secure encrypted passwords, which can be decrypted by a key, rather than hashed ones, which cannot.
+Yet whereas Adobe skillfully and efficiently handled the crisis, eBay made three unforgivable mistakes -- it waited too long to notify the public, neglected the simplest ways to contain the damage, then publicly revealed its corporate disorganization with incomplete website updates. All of these diminish the amount of trust buyers and sellers have for eBay.
+eBay will now have to answer tough questions from investigators, the government, its customers, and its investors. There are two simple morals of this story -- companies should invest more heavily in data theft prevention, and have a contingency plan in place in case a massive data breach occurs.
+This article represents the opinion of the writer, who may disagree with the “official” recommendation position of a Motley Fool premium advisory service. We’re motley! Questioning an investing thesis – even one of our own – helps us all think critically about investing and make decisions that help us become smarter, happier, and richer.
+Invest Smarter with The Motley Fool
+Join Over 1 Million Premium Members Receiving…
+New Stock Picks Each Month
+Detailed Analysis of Companies
+Live Streaming During Market Hours
+And Much More
+

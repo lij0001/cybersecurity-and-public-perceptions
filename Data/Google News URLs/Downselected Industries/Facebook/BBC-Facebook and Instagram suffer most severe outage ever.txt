@@ -1,0 +1,23 @@
+Facebook's apps seemed to be recovering on Thursday morning, with Instagram announcing it was back .
+In response to rumours posted on other social networks, the company said the outages were not a result of a Distributed Denial of Service attack, known as DDoS - a type of cyber-attack that involves flooding a target service with extremely high volumes of traffic.
+How widespread was the problem?
+Estimates suggest the issue began around 16:00 GMT on Wednesday.
+While Facebook's main service appeared to load, users reported not being able to post.
+Those on Instagram were not able to refresh feeds or post new material. Facebook Messenger's desktop version did not load - but the mobile app appeared to allow the sending of some messages; however, users reported glitches with other kinds of content, such as images. WhatsApp, Facebook's other messaging app, had similar problems.
+A third-party outage map suggested the problem was global - DownDetector monitors posts on other social networks for users mentioning a loss of service elsewhere. According to the site, areas of Europe and Asia are still reporting problems as of Thursday morning.
+Ongoing issues are likely to hit Facebook hard in the wallet. The company, which funds the majority of its business through advertising revenue, told Bloomberg that it was investigating "the possibility of refunds for advertisers".
+The issue also affected Facebook Workplace, the service used by businesses to communicate internally.
+Buenos Aires-based designer Rebecca Brooker told the BBC the interruption was having a significant impact on her firm's work.
+"Facebook for personal use is fine - but what happens when we rely on large companies such as this to provide business services?" she said.
+"I'm trying to communicate with my team in New York. Facebook Workplace is our only channel for [communication] with the exception of email."
+In the UK, an NHS paediatric consultant told the BBC how staff were upset not to be kept updated on a party being held for a beloved nurse who was retiring after 20 years.
+"Being a working day most consultants could not make it," said Dr Nikhil Ganjoo. "So I represented them - but was unable to share the retirement party pics with them as it happened."
+The outage occurred against a political backdrop of legislators in the US and beyond considering whether large technology firms - not just Facebook - should be broken up.
+Elizabeth Warren, who is hoping to be the Democratic candidate in the next US presidential election, told the New York Times : "We need to stop this generation of big tech companies from throwing around their political power to shape the rules in their favour and throwing around their economic power to snuff out or buy up every potential competitor."
+On Wednesday's issue, Ms Brooker added on Twitter : "Look at what happens when we let one company control everything.
+"I figured this could happen eventually but it's extremely crippling to be part of this monopoly."
+_____
+Follow Dave Lee on Twitter @DaveLeeBBC
+Do you have more information about this or any other technology story? You can reach Dave directly and securely through encrypted messaging app Signal on: +1 (628) 400-7370
+Top Stories
+

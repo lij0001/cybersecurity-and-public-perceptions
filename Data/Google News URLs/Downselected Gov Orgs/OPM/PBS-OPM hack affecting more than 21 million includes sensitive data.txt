@@ -1,0 +1,49 @@
+OPM hack affecting more than 21 million includes sensitive data
+Jul 9, 2015 7:18 PM EDT
+By —
+Transcript Audio
+More than 21 million Americans had personal data stolen from files held by the Office of Personnel Management. Anyone who went through background checks to apply for a government position since 2000 has been affected, according to the OPM. That makes the data breach six times larger than was originally disclosed. Gwen Ifill learns more from Josh Lederman of the Associated Press.
+Read the Full Transcript
+GWEN IFILL:
+More than 21 million Americans had personal information stolen from government files in a data breach that was six times as large as originally disclosed. The information was hacked from the Office of Personnel Management, or OPM, which said today it is highly likely that anyone who went through background checks to apply for a government position since 2000 was affected.
+Joining us to fill in the blanks is Josh Lederman of the Associated Press, who has been covering the story.
+In terms of scope, we know this is huge, but how is it different from the earlier hacks we have heard about, Josh?
+JOSH LEDERMAN, Associated Press:
+Well, what we're finding out now, Gwen, is not only were many more Americans affected than we previously knew, but just what kinds of data.
+We're talking about very personal data that most people would be very uncomfortable knowing is out there. We're talking about health histories, their criminal histories, their educational and residency backgrounds, as well as interviews that they conducted with members of OPM, Office of Personnel Management, or other people conducting background checks in the process of applications to get a security clearance.
+GWEN IFILL:
+Information, all of the kinds of information that we're warned to protect with our lives, Social Security numbers, biometric fingerprints.
+JOSH LEDERMAN:
+That's right, as well as user names and passwords that a lot of these applicants used as they were trying to get their applications.
+GWEN IFILL:
+How was this discovered?
+JOSH LEDERMAN:
+Well, it was discovered by a system that the government had put in place to try and detect breaches just like this one. Unfortunately, that system wasn't the most modern system and it didn't detect it until it was quite a bit too late. As the government started looking into it, they realized that the initial breach that they detected was actually much broader and affected many more people than they initially thought.
+GWEN IFILL:
+At the time, I remember there being speculation about who was behind the breech, who actually was — who the hackers were. Do we have any more indication of who that might have been?
+JOSH LEDERMAN:
+No new indication from the government.
+Now, many members of Congress, including Senate Democratic Leader Harry Reid and others, have said this was China. There have even been federal agencies that have said, without putting their own names on it, we're pretty sure this is China.
+However, the White House, the Office of Personal Management today declining to name who was responsible for this, only to say that they believe that these two breaches that we know about were by the same person and that they're working behind the scenes to do what needs to be done in response to those breaches.
+GWEN IFILL:
+Now, as you said, the government had put in place a system to try to detect these breaches. How do they — does this system help them figure out a way to prevent them from happening again?
+JOSH LEDERMAN:
+The problem here I think is that we're in a bit of race with the hackers.
+So as soon as the government comes up with a new system to detect intrusions, hackers find an even smarter, more complex way around it. The government says that they're in the process of putting in place government-wide the latest system to detect these intrusions and prevent them from happening.
+But the government is also acknowledging that it's only a matter of time before the hackers get even better at their game.
+GWEN IFILL:
+Feels like it's every other week that we talk about some sort of hacking incident, whether it's a retail establishment or a bank or a newspaper or in this case the federal government.
+Are these all of a piece? Are they very similar, one after the other?
+JOSH LEDERMAN:
+There are basic differences between them, but the thing that's constant is the fact that there is this threat that government and private security officials, cyber-security officials say is going to grow as we head into the future.
+GWEN IFILL:
+We know that a lot of Republicans, especially leaders, have called for administrator Katherine Archuleta's resignation. Is her job in danger as a result of this latest disclosure?
+JOSH LEDERMAN:
+I believe that it is.
+We have to acknowledge she said in a conference call today with reporters she's not stepping down, she plans to continue doing the work that she's doing. And she's confident that her office is doing everything that they need to do.
+However, just in the past few hours, Gwen, we have seen very prominent members of Congress, House Speaker John Boehner, Senator John McCain just a few minutes ago, coming out and saying they're not at all confident in the leadership of the Office of Personnel Management and they think it's time for a change.
+GWEN IFILL:
+And that's how it begins.
+Josh Lederman of the Associated Press, thank you very much.
+JOSH LEDERMAN:
+

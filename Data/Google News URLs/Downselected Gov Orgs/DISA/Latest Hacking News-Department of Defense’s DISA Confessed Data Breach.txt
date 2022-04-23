@@ -1,0 +1,23 @@
+Department of Defense’s DISA Confessed Data Breach 
+written by Abeerah Hashim February 24, 2020
+The United States Department of Defense (DOD) holds significant importance owing to its sensitive operations. Perhaps, that is why it remains on the hit list of cybercriminals. Recently the DOD disclosed a data breach impacting its IT and telecom agency DISA. The incident exposed the personally identifiable information of their employees.
+
+Reportedly, the Defense Information Systems Agency (DISA) associated with the US Department of Defense has disclosed a security incident. As revealed, DOD DISA suffered a data breach exposing employee information to attackers.
+
+The news surfaced online after a breach notice from the DISA Risk Management Executive and CIO Roger S. Greenwell appeared. The letter stated that the DISA system suffered a security breach during May to July 2019, exposing some personally identifiable information. The leaked information might also have included the Social Security Numbers.
+
+While the agency hasn’t specified any number of victims affected by this incident, they have assured that the incident did not lead to any misuse of the data. Yet, they will continue to inform the users potentially impacted during the breach.
+
+"While there is no evidence to suggest that your PII was misused, DISA policy requires the agency to notify individuals whose personal data may have been compromised."
+
+Below is the full copy of the DISA breach notice.
+
+Security Measures Underway
+
+Following the incident, DISA employed additional security measures at their systems to protect PII data and prevent such incidents. They also offer free credit monitoring services to the affected individuals.
+
+The Defense Information Systems Agency (DISA) is a dedicated body associated with DOD. It provides IT and telecom services to the White House, diplomats, and military troops. This certainly makes the incident a critical one with the potential to have exposed sensitive data to the perpetrators.
+
+Nonetheless, in response to queries regarding possible exposure of data to Chinese or Iranian hackers, the officials simply assured of no misuse of the compromised information.
+
+This isn’t the first security incident involving the Department of Defense. In October 2018, the Pentagon disclosed a data breach at DoD impacting personal and card details of DOD employees.

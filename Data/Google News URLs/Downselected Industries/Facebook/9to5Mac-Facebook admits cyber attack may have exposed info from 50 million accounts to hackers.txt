@@ -1,0 +1,26 @@
+Facebook admits cyber attack may have exposed info from 50 million accounts to hackers
+Michael Potuck
+Sep. 28th 2018 10:14 am PT
+
+Just after confirming the controversial practice of using 2FA phone numbers to send targeted ads to  Facebook users, the platform has discovered a flaw that’s left at least 50 million accounts compromised to attackers.
+
+Announced in a blog post today, Facebook shared details on a flaw in its “View As” feature that allowed hackers to takeover Facebook accounts. “View As” is what allows users to look at their profile as others see it. Facebook’s VP of Product Management, Guy Rosen said that the recently discovered exploit allowed attackers to gain access tokens, which are what keeps users logged into their accounts over multiple sessions. These tokens are what would have let attackers takeover Facebook accounts.
+
+Facebook’s investigation is still underway. While the flaw has been patched, it’s unclear to Facebook if the stolen tokens were used, and if so how many accounts were affected. In any case, Facebook has reset the access tokens for 90 million accounts, which means you may find yourself needing to log back in to the platform.
+
+
+Here is the action we have already taken. First, we’ve fixed the vulnerability and informed law enforcement.
+
+Second, we have reset the access tokens of the almost 50 million accounts we know were affected to protect their security. We’re also taking the precautionary step of resetting access tokens for another 40 million accounts that have been subject to a “View As” look-up in the last year. As a result, around 90 million people will now have to log back in to Facebook, or any of their apps that use Facebook Login. After they have logged back in, people will get a notification at the top of their News Feed explaining what happened.
+
+The vulnerability came from changes Facebook made to a video uploading feature over a year ago.
+
+This attack exploited the complex interaction of multiple issues in our code. It stemmed from a change we made to our video uploading feature in July 2017, which impacted “View As.” The attackers not only needed to find this vulnerability and use it to get an access token, they then had to pivot from that account to others to steal more tokens.
+
+Finally, the security update says users don’t need to change their passwords and ends with a brief apology:
+
+People’s privacy and security is incredibly important, and we’re sorry this happened. It’s why we’ve taken immediate action to secure these accounts and let users know what happened. There’s no need for anyone to change their passwords.
+
+Update: FTC commissioner Rohit Chopra has tweeted on the news saying “I want answers.”
+
+Facebook has shared more details: hackers would have had access to third-party apps through compromised accounts.

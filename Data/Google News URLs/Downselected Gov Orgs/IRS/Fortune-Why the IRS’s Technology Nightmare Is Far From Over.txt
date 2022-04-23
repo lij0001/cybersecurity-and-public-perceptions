@@ -1,0 +1,36 @@
+Why the IRS’s Technology Nightmare Is Far From Over
+BY 
+JEN WIECZNER
+March 25, 2016 5:30 AM CDT
+
+This is a story about the Internal Revenue Service, an 84,000-employee government agency with a job that’s as vital as it is hard to love—securing the trillions of dollars in taxes that make the government run. And these days, it’s an agency down on its luck: plagued by angry politicians, frustrated taxpayers, hordes of identity thieves, and—more recently—hackers.
+
+The IRS’s latest and perhaps most spectacular foray into disaster was an online feature called Get Transcript. The tool, which for the first time allowed taxpayers to download their records directly from IRS.gov, was supposed to be the happy ending to the decades-long struggle to bring the IRS’s J.F.K.-era legacy technology into the Internet age. But in February the bureau announced that hackers had used Get Transcript to steal the personal information of 724,000 people. The hack, it turned out, was six times as damaging as the IRS initially thought when it detected the breach and shut down the tool last May.
+
+Once upon a time in the land of the free, the IRS gathered trillions from you and me…
+
+Also in February, another attack used 101,000 stolen Social Security numbers to fraudulently generate PINs for electronic filing of tax returns. No IRS data were exposed, but in the wake of that scare the agency disabled another online tool with which certain taxpayers could retrieve a separate PIN they had been assigned for identity protection purposes.
+
+But the taxmen were cash-strapped, their coffers were bare. They had no money for staffing, tech upgrades were rare…
+
+The episodes illustrate the immense technological challenges facing the agency, which—even as annual tax receipts have risen to more than $3 trillion—still uses half-century-old magnetic tape to store and process tax return records, as well as versions of Windows so old that Microsoft abandoned upkeep for them years ago.
+
+And the people got angry. “Be right with you,” they were told. There were hacks, there were scandals, and lots of waiting on hold.
+
+A political tug-of-war over funding has hamstrung the IRS’s ability to protect its data against a growing battery of threats for more than a decade. The IRS has an $11.2 billion budget for fiscal 2016, less than its budget in 1995 adjusting for inflation. Years of cuts also became easier to rationalize after 2013 accusations that the IRS inappropriately targeted Tea Party groups. The IRS was cleared of allegations of criminal wrongdoing in the case last October—the U.S. Department of Justice said that the IRS had screwed up but that “ineffective management is not a crime.”
+
+Budget cuts have also handicapped the IRS’s capacity to answer consumers’ phone calls. Last year its telephone service fell to an all-time low, with just 38% of callers able to get through and an average wait time of more than half an hour.
+
+And while congres­sional funds for the agency’s technological infrastructure and staffing dwindled, official complaints of tax identity theft doubled last year—helped along by exponential growth in scammers impersonating the IRS. (One of the IRS’s own employees pleaded guilty in February to stealing taxpayer identities.) After all, the U.S. Treasury is the mother of all piggy banks: “We are basically attacked or at least probed over a million times a day,” IRS Commissioner John Koskinen tells Fortune.
+
+In part, the litany of technical snafus has come out of an effort to make the agency more cost-efficient. Get Transcript cost the IRS just 40¢ per transcript request, compared with $45 to $55 per document requested the old-fashioned way. Multiplied by the 23 million transcripts ordered online last year, the savings was more than $1 billion annually. The IRS fast-tracked development, rejecting IT proposals for greater antifraud provisions such as facial recognition. “We were robbing our own cybersecurity budget … for Get Transcript,” says one former IRS official.
+
+It also didn’t help security that the programs had to be customer-friendly. In both recent attacks, thieves came in through the front door—using the very same ID system taxpayers were supposed to use. They stormed the site en masse, using “bots” to fill out security questions. Ironically, the identity verification checks the hackers breached had also kept out 23% of legitimate taxpayers.
+
+With the new system that the IRS begins testing this month, Koskinen says he’ll be satisfied if just half of taxpayers can get through the enhanced barriers; the agency has even considered using biometrics for authentication. In his newly unveiled Future State plan, Koskinen envisions an online IRS portal with a suite of e-filing and online customer service tools for taxpayers. With $95 million in additional cybersecurity funding this year, the IRS is hiring 55 more IT experts and installing new detection software with more than 100 filters to flag suspicious activity.
+
+Acquiring the tech expertise to make genuine improvements won’t be easy. The agency has struggled to recruit top tech talent from Google (GOOGL) and Apple (AAPL), while dealing with its own exodus of cybersecurity pros. A measure that allowed the IRS to lure specialists with salaries well above government pay expired in 2013, and the last 10 such IT hires, including the chief technology officer, will be gone in the next few months.
+
+That means the proverbial cookie jar could be left unattended just when the IRS can least afford another mistake. When people feel they’re safer not paying taxes than trusting the government with their data, says former IRS deputy commissioner Mark Matthews, “that’s where the real trouble starts.”
+
+A version of this article appears in the April 1, 2016 issue of Fortune with the headline “The IRS and the Terrible, Horrible, No Good, Very Bad Decade.“

@@ -1,0 +1,19 @@
+This article is more than 4 years old
+Equifax hack puts data of 400,000 UK customers at risk
+This article is more than 4 years old
+US credit rating firm’s announcement comes after UK authorities order it to alert British clients of cybersecurity breach
+Equifax discovered the hack in July but only informed consumers last week. Photograph: Justin Lane/EPA
+Equifax discovered the hack in July but only informed consumers last week. Photograph: Justin Lane/EPA
+Press Association
+Sat 16 Sep 2017 06.23 EDT
+Last modified on Sat 16 Sep 2017 06.37 EDT
+About 400,000 people in the UK may have had their information stolen following a cybersecurity breach at the credit monitoring firm Equifax.
+The US company said an investigation had revealed that a file containing UK consumer information “may potentially have been accessed”.
+The data includes names, dates of birth, email addresses and telephone numbers, but does not contain postal addresses, passwords or financial information. Equifax, which is based in Atlanta, discovered the hack in July but only informed consumers last week.
+Read more
+In an effort to provide reassurance, the firm said it was unlikely people would be hit by “identity takeover”. It said it would contact them in writing to offer advice and a free identity protection service to monitor their personal information and data.
+Equifax’s president, Patricio Remon, said: “We apologise for this failure to protect UK consumer data. Our immediate focus is to support those affected by this incident and to ensure we make all of the necessary improvements and investments to strengthen our security and processes.”
+Equifax alerted the public to the cyber-attack on 7 September. The data of 143 million people was breached in America .
+Equifax said its UK systems had not been impacted by the attack but that information on British consumers may have been accessed because of a process failure in 2016 that meant a limited amount of UK data was stored on the US system between 2011 and 2016.
+The UK consumer data that may have been stolen does not include “any single Equifax business clients or institution,” it said.
+

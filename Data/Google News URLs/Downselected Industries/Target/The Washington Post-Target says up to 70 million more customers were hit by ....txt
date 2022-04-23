@@ -1,0 +1,32 @@
+Business
+Target says up to 70 million more customers were hit by December data breach
+Target breach has triggered at least two class-action lawsuits, drawn state and federal investigations, and damaged Target’s bottom line. (Reuters, JAN 10No-Data-Available, JAN 10/Reuters)
+Bio Follow
+January 10, 2014
+Target said Friday that the thieves who stole massive amounts of credit and debit card information during the holiday season also swept up names, addresses and phone numbers of 70 million customers, information that could put victims at greater risk for identity theft.
+Every bit of added data helps criminals develop more sophisticated tactics for either impersonating victims or luring them to give up more sensitive information, according to security experts.
+“These criminals are building up dossiers on individuals,” said Avivah Litan, a fraud and security analyst at Gartner, a research firm. “Let’s say they have Mary Jane. Now they’ve got her e-mail, her name and her address, and now they have her credit card. So now she’s easier to target.”
+The Target breach already ranks as one of the worst ever. During the peak of holiday shopping last month, Target said that up to 40 million customers’ credit and debit card information had been stolen from people who shopped in stores from Nov. 27 to Dec. 15. On Friday, the company said a new group of 70 million customers — some of whom might also have had their card data stolen — have had their personal information compromised, as well.
+The growing scandal has triggered at least two class-action lawsuits, drawn state and federal investigations, and damaged Target’s bottom line. The company on Friday cut its fourth-quarter earnings forecast and said it expects sales to decline by 2.5 percent.
+“All the costs are going to eat up their profits,” said John Kindervag, an analyst with Forrester. “There’s going to be shareholder revolts. There’s going to be prosecutions. They’ve stepped in quicksand. It’s not going to be fun.”
+Affected customers will be sent an e-mail providing them with general security tips, said Target, adding that no personal information would be requested in the e-mail. The Minneapolis-based retailer is also offering one year of free credit monitoring and identity theft protection to all shoppers. Customers are not liable for any fraudulent charges made to their cards as a result of the breach, according to Target, which has also put a list of tips for shoppers on its Web site.
+“I know that it is frustrating for our guests to learn that this information was taken, and we are truly sorry they are having to endure this,” Gregg Steinhafel, Target’s chairman, president and chief executive, said in a statement. “I also want our guests to know that understanding and sharing the facts related to this incident is important to me and the entire Target team.”
+Friday’s announcement is the result of an ongoing investigation into the security breach, Target said. The company is working with the Secret Service and the Department of Justice to determine who was behind the attack. Spokesmen at the Secret Service and the Justice Department declined to comment on the investigation.
+Target’s problems reflect a crisis in how customer data is protected, analysts said.
+“It’s a little frightening. These bad guys are getting into some of the most secure retailers’ networks, and I’m sure it’s not going to stop at Target,” Litan said. “We need a fundamentally different paradigm here for how we manage security.”
+But, with few details emerging about how the crime against Target was committed, it’s hard to say what solutions could have prevented this particular breach.
+In the meantime, card issuers are taking their own steps. Chase and American Express, for instance, have reissued the debit cards of affected customers.
+Shoppers whose personal and financial data was stolen — the exact number is unclear — are at higher risk of falling victim to scams or having their information misused. Target said the two types of data are not linked within its system.
+But consumer advocates point to the fact that Target is an industry leader at data mining, the practice of analyzing customers’ information to find out more about their preferences and shopping habits.
+“That makes this breach all the more frightening,” said Paul Stephens, director of policy and advocacy at Privacy Rights Clearinghouse, an advocacy group. The volume of information Target has on its customers raised the stakes, he said.
+Experts said that with names and mailing addresses, thieves can use the credit cards for online purchases that require that information. On top of that, they can try to trick people into providing even more sensitive information, such as Social Security numbers, or hack into their computers.
+“They could pretend they’re the bank reissuing the card, and say, ‘We want to reissue your card, and give us your information,’ ” Litan said.
+The full extent of the attack is still unknown as Target continues its investigation, although the total number of shoppers affected by the attack may be more than 100 million, according to Target spokeswoman Molly Snyder.
+The company said it doesn’t know how many customers have found fraudulent charges on their credit or debit cards, but individual stories and lawsuits are beginning to crop up across the country.
+A California shopper filed a lawsuit against Target last month and hopes to include other shoppers in a class-action case. Last week, a credit union in Alabama also took action against Target, seeking compensation for costs that would arise from issuing customers new cards, as well as any fraudulent charges.
+New York Attorney General Eric T. Schneiderman said Friday in a statement that his office is on a nationwide investigation into the breach.
+“The news that Target has discovered a breach involving 70 million customers is deeply troubling,” Schneiderman said.
+Target has tried to win back consumers. After news of the attack broke last month, the company offered 10 percent off all in-store purchases after the attack. But it wasn’t enough to stave off a drop in sales, which the company said Friday were “meaningfully weaker-than-expected.”
+Target noted that sales had improved in the past several days, though that was before the latest announcement. On Friday, the company’s stock dropped more than 1 percent.
+Related:
+

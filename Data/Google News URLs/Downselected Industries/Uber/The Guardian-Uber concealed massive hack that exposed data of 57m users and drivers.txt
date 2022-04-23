@@ -1,0 +1,67 @@
+This article is more than 4 years old
+Uber concealed massive hack that exposed data of 57m users and drivers
+This article is more than 4 years old
+Firm paid hackers $100,000 to delete data and keep breach quiet
+Chief security officer Joe Sullivan fired for concealing October 2016 breach
+Uber’s CEO, Dara Khosrowshahi, said: ‘None of this should have happened, and I will not make excuses for it.’ Photograph: Andrew Caballero-Reynolds/AFP/Getty Images
+Uber’s CEO, Dara Khosrowshahi, said: ‘None of this should have happened, and I will not make excuses for it.’ Photograph: Andrew Caballero-Reynolds/AFP/Getty Images
+Wed 22 Nov 2017 06.16 EST
+First published on Tue 21 Nov 2017 17.53 EST
+Uber concealed a massive global breach of the personal information of 57 million customers and drivers in October 2016, failing to notify the individuals and regulators, the company acknowledged on Tuesday.
+Uber also confirmed it had paid the hackers responsible $100,000 to delete the data and keep the breach quiet, which was first reported by Bloomberg .
+“None of this should have happened, and I will not make excuses for it,” Uber’s chief executive, Dara Khosrowshahi, said in a statement acknowledging the breach and cover-up. “While I can’t erase the past, I can commit on behalf of every Uber employee that we will learn from our mistakes.”
+Timeline
+A timeline of Uber's terrible year
+Show
+January 2017
+#DeleteUber goes viral
+Uber’s decision to lift surge pricing during a New York taxi drivers’ work stoppage in protest of the Trump travel ban prompts a viral #DeleteUber campaign .
+February 2017
+Susan Fowler speaks out
+Former Uber engineer Susan Fowler publishes a blog post with allegations of widespread sexual harassment and gender discrimination.
+March 2017
+Greyball deception revealed
+The New York Times exposes Uber’s use of Greyball , a tool to systematically deceive authorities in cities where Uber was violating local laws.
+May 2017
+Drivers underpaid by millions
+Uber admits it has for years been underpaying New York City drivers by tens of millions of dollars.
+June 2017
+Toxic culture reaches breaking point, Kalanick resigns
+Uber fires 20 employees following the conclusion of an investigation into sexual harassment and workplace culture.
+Uber is sued by an Indian passenger who was raped by an Uber driver after reports reveal that a top executive had obtained the woman’s medical records, allegedly in order to cast doubt upon her account.
+CEO Travis Kalanick resigns .
+August 2017
+Unsafe cars leased in Singapore
+The Wall Street Journal reports that Uber had rented fire-prone cars to drivers in Singapore, despite knowing that the vehicles had been recalled over serious safety concerns.
+September 2017
+Uber loses London license
+Uber loses its license to operate in London due to a lack of corporate responsibility. The company is appealing the decision.
+November 2017
+Massive hack cover-up revealed
+Uber admits concealing a 2016 breach that exposed the data of 57 million Uber customers and drivers, failing to disclose the hack to regulators or affected individuals. The company paid a $100,000 ransom to the hackers to destroy the information and keep the breach quiet.
+Was this helpful?
+Thank you for your feedback.
+Hackers stole personal data including names, email addresses and phone numbers, as well as the names and driver’s license numbers of about 600,000 drivers in the United States. The company said more sensitive information, such as location data, credit card numbers, bank account numbers, social security numbers, and birth dates, had not been compromised.
+In his statement, Khosrowshahi said the company had “obtained assurances that the downloaded data had been destroyed” and improved its security, but that the company’s “failure to notify affected individuals or regulators” had prompted him to take several steps, including the departure of two of the employees responsible for the company’s 2016 response.
+Uber’s chief security officer, Joe Sullivan, was one of the two employees who left the company, Bloomberg reported.
+The company’s failure to disclose the breach was “amateur hour”, said Chris Hoofnagle of the Berkeley Center for Law and Technology. “The only way one can have direct liability under security breach notification statutes is to not give notice. Thus, it makes little sense to cover up a breach.”
+Under California state law, for example, companies are required to notify state residents of any breach of unencrypted personal information, and must inform the attorney general if more than 500 residents are affected by a single breach.
+“The hack and the cover-up is typical Uber only caring about themselves,” said Robert Judge, an Uber driver in Pittsburgh, who said he had yet to receive any communication from the company. “I found out through the media. Uber doesn’t get out in front of things, they hide them.”
+Uber said in a statement to drivers that it would offer those affected free credit monitoring and identity theft protection.
+According to Bloomberg, the breach occured when two hackers obtained login credentials to access data stored on Uber’s Amazon Web Services account. Paul Lipman, CEO of cybersecurity firm BullGuard, said that the fact that the data was being stored unencrypted was “unforgivable”.
+“That’s just a complete misstep from an information security viewpoint,” he added.
+The CEO of Uber, Dara Khosrowshahi. Photograph: Bloomberg/Bloomberg via Getty Images
+The New York state attorney general’s office has opened an investigation into the data breach, a spokeswoman confirmed.
+Uber’s potential civil liability from the breach is complicated by the fact that the United States’ various federal appellate courts are divided over how to treat data breach lawsuits. Some courts allow individuals to join class action lawsuits if they are simply at greater risk of having their identities stolen due to a breach, while other courts require plaintiffs to show that their personal information has actually been misused.
+In June, health insurer Anthem settled litigation over a 2015 breach affecting 79 million people for a record $115m.
+“Non-disclosure creates a practical risk in the hundreds of millions,” said Hoofnagle, who noted that companies can pay third parties to handle the fallout from a security breach – including notifications – for fees in the tens of millions. “Here’s the good news: drivers will finally squeeze money out of Uber.”
+The hack and subsequent concealment is just the latest in a string of scandals and crises that Khosrowshahi inherited from his predecessor, Travis Kalanick, who was forced out of the $68bn startup in June.
+The year started out with the trend-setting #DeleteUber viral boycott campaign , which arose after the company was accused of exploiting a New York taxi drivers’ work stoppage protesting against Trump’s travel ban.
+Read more
+Then in February, former employee Susan Fowler published a blogpost alleging a pervasive culture of gender discrimination and sexual harassment at the company.
+The next month saw a New York Times report that for years Uber had been running a secret program to systematically deceive law enforcement officials in cities where its service violated regulations. Officials attempting to hail an Uber during a sting operation were “greyballed”; they might see icons of cars within the app navigating nearby, but no one would pick them up.
+Fowler’s blogpost prompted Uber to commission an investigation of its workplace culture, and led to a public airing of the startup’s considerable dirty laundry. The company had soared to its position as the highest-value startup and dominant ride-hail app by defying rules and regulations, but the post-Fowler reckoning saw at least 20 employees fired and the company acknowledge that it needed to change. It also led to the eventual ousting of Kalanick himself.
+Khosrowshahi displayed the new conciliatory style in September when Transport for London decided not to renew its license to operate in London. “We’ve got things wrong along the way,” the CEO said at the time . “On behalf of everyone at Uber globally, I apologise for the mistakes we’ve made.”
+Follow Guardian Business on Twitter at @BusinessDesk , or sign up to the daily Business Today email here .
+Topics
+

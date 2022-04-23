@@ -1,0 +1,10 @@
+Greg Kumparak @grg / 7 years
+It seems like 2014 has been one endless series of massive hacks. Home Depot. Target. Neiman Marcus. Michaels. JPMorgan Chase. It’s been one hack after the other, each dumping anything from customer credit card numbers to mailing addresses into the wild.
+The latest one is a big one: the United States Postal Service.
+Here’s what we know:
+The hack was seemingly focused not on nabbing customer credit cards, but on employee data. The hackers likely had access to confidential data on all 800,000 USPS employees. That includes names, Social Security numbers, addresses, and pretty much anything else you’d put on a job application.
+Customer credit card information seemingly wasn’t exposed. However, anyone who called USPS customer support from January 1st to August 16th of 2014 might have had information stolen, depending on what information they provided to the CS rep: things like names, addresses, telephone numbers and email addresses.
+The intrusion was first detected in mid-September, nearly 2 full months before being disclosed. The USPS says this delay was because “communicating the breach immediately would have put the remediation actions in jeopardy…”
+So what do you need to do? Unless you’re a USPS employee, probably not a whole lot. For once, you probably don’t need to call your bank and get yet another new credit card.
+If you are a USPS employee, though, you’ll want to take the usual precautions, and then some: keep an eye on your credit report, and perhaps take advantage of a credit monitoring service (the USPS is offering a year of it for employees, but not customers). It’s not clear why the hackers wanted data on a bunch of USPS employees — but in case it’s identity fraud, you might as well have those bases covered. Meanwhile, be on the lookout for any reports on if/how this data gets put to use maliciously.
+

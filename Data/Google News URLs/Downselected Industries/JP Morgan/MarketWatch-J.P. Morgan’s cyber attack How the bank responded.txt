@@ -1,0 +1,8 @@
+-0.04%
+J.P. Morgan Chase & Co. said Thursday that contact information for about 76 million households and about 7 million small businesses was compromised in a cybersecurity attack detected this summer. The attack went unnoticed for about two months until the bank caught wind. Here’s how the attack and J.P. Morgan’s response played out:
+Mid-June: Hackers gain access to J.P. Morgan JPM,
+-0.04%
+servers that housed user contact information of current and former customers who accessed chase.com or jpmorgan.com via web or mobile in past years, people familiar with the matter said. It’s unclear how many years the information went back.
+Mid-August: J.P. Morgan learns of the attack and stops it, identifying and closing all access paths over more than 90 servers, people familiar with the matter said. A couple hundred employees across J.P. Morgan’s technology and cybersecurity teams begin working to examine data on any server that was compromised.
+October 2: J.P. Morgan said contact information for about 76 million households and about 7 million small businesses was compromised in the attack. That includes names, email addresses, phone numbers and addresses but not financial information, such as passwords, dates of birth, social security numbers or account numbers.
+

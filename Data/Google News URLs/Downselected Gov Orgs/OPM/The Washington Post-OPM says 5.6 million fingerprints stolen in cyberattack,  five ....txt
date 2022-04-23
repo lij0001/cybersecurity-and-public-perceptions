@@ -1,0 +1,24 @@
+ArrowRight
+That's more than five times the 1.1 million government officials estimated when the cyberattacks were initially disclosed over the summer. The total number of those believed to be caught up in the breaches, which included the theft of the Social Security numbers and addresses of more than 21 million former and current government employees, remains the same.
+OPM and the Department of Defense were reviewing the theft of background investigation records when they identified additional fingerprint data that had been exposed, OPM said in a statement.
+Story continues below advertisement
+Breaches involving biometric data like fingerprints are particularly concerning to privacy experts because of their permanence: Unlike passwords and even Social Security numbers, fingerprints cannot be changed. So those affected by this breach may find themselves grappling with the fallout for years.
+Advertisement
+“The fact that the number [of fingerprints breached] just increased by a factor of five is pretty mind-boggling,” said Joseph Lorenzo Hall, the chief technologist at the Center for Democracy & Technology. “I’m surprised they didn't have structures in place to determine the number of fingerprints compromised earlier during the investigation.”
+Lawmakers, too, were upset about the latest revelation. "OPM keeps getting it wrong," said Rep. Jason Chaffetz (R-Utah). " I have zero confidence in OPM’s competence and ability to manage this crisis."
+Story continues below advertisement
+As fingerprints increasingly replace passwords as a day-to-day security measure for unlocking your iPhone or even your home, security experts have grown concerned about how hackers might leverage them.
+But federal experts believe the potential for "misuse" of the stolen fingerprints is currently limited, according to OPM, but that could "could change over time as technology evolves." It also said an interagency working group including experts from law enforcement and the intelligence community will review ways that the fingerprint data could be abused and try to develop ways to prevent that from happening.
+Advertisement
+"If, in the future, new means are developed to misuse the fingerprint data, the government will provide additional information to individuals whose fingerprints may have been stolen in this breach," OPM said.
+Story continues below advertisement
+OPM says it is still in the process of notifying everyone caught up in the breach. But they will be offered free identity theft and fraud protection services, the agency said.
+China is widely suspected of being behind the breaches, perhaps as part of move to build a massive database on Americans. But U.S. government officials have so far declined to publicly blame the nation for the cyberattacks. Chinese President Xi Jinping is currently visiting the U.S. and described China as a strong defender of cybersecurity and a victim of hacking itself during a speech in Seattle on Tuesday.
+The hacks sparked an outcry on Capitol Hill where lawmakers criticized the government's response and said the agency should have done more to protect the information in the first place. Some called for the firing of OPM director Katherine Archuleta, who eventually resigned in July.
+Advertisement
+Story continues below advertisement
+One lawmaker criticized OPM for releasing the new information during the Pope's visit to Washington: "Today's blatant news dump is the clearest sign yet that the administration still acts like the OPM hack is a PR crisis instead of a national security threat," said Sen. Ben Sasse (R-Neb.) in a statement.
+OPM spokesman Sam Schumach said the additional batch of compromised fingerprints wasn't identified until very recently and that the agency spent the past several days analyzing the data.
+"Yesterday, we began informing members of Congress, as well as the OPM Inspector General, of these newly identified archived records, and disclosed that this would change the fingerprint number previously reported," he said in an e-mailed statement. The agency was able to confirm the new total population Wednesday morning and subsequently informed the public, Schumach said.
+GiftOutline
+

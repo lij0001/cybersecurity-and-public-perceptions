@@ -1,0 +1,17 @@
+Tom Vanden Brook and Michael Winter
+USA TODAY
+Intruders hacked into an email system used by the Joint Chiefs of Staff at the Pentagon, forcing the military to take if off line and "cleanse" it, according to a Defense Department official who spoke on condition of anonymity because they were not authorized to speak publicly.
+Indications are that the attack was conducted by another government, said the source who was not authorized to speak publicly about it. Experts are still analyzing the scope of the attack and who was responsible for it.
+The intrusion occurred about two weeks ago, the source said. It forced the military to take down the network for unclassified information, although control of the system was not lost. The system is expected to be restored soon.
+Sources told NBC News that Russians were behind the "sophisticated cyber intrusion," which affected about 4,000 military and civilian personnel. No classified information was taken or revealed.
+Although there was no immediate direct link to the Russian government, NBC's sources said it was "clearly the work of a state actor." CBS News sources also reported the Russian link.
+The attack came around July 25 and forced the Pentagon to take the email system offline, NBC said.
+CNN first reported the hack July 28.
+The so-called spear-phishing attack "exposed a new and different vulnerability" not seen before, CNN reported Wednesday, citing an unidentified senior Pentagon official. CNN said that the attack had "the hallmark" of a foreign government but that U.S. officials were not certain.
+Spear-phishing attacks trick people into opening infected emails that steal their network credentials and spread through a network.
+The hackers used what NBC described as an "automated system that rapidly gathered massive amounts of data and within a minute distributed all the information to thousands of accounts on the Internet." Encrypted social media accounts were used to coordinate the attack.
+Defense Secretary Ashton Carter said in April that Russian hackers had briefly broken into the Pentagon's unclassified networks. Hackers believed to have Moscow backing penetrated the State Department and White House networks late last year. President Obama's personal schedule was among the sensitive data that was compromised.
+U.S. officials also suspect Russians hacked State Department computer systems in October 2014. China, meanwhile, has been blamed for the massive security breach at the Office of Personnel Management earlier this year that compromised personal information for 22 million people.
+About Us Newsroom Staff Ethical Principles Corrections Press Releases Accessibility Sitemap Terms of Service Your California Privacy Rights/Privacy Policy Privacy Policy
+Do Not Sell My Info/Cookie Policy
+

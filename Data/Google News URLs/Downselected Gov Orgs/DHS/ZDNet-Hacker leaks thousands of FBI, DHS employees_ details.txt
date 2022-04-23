@@ -1,0 +1,17 @@
+Hacker leaks thousands of FBI, DHS employees' details
+The details of federal agents are beginning to appear online.
+| Topic: Government
+A hacker has gained access to a database containing names, job titles, email addresses, and phone numbers of tens of thousands of government workers.
+The data contains details on as many as 20,000 FBI employees and 9,000 Homeland Security employees.
+Security
+LastPass vs 1Password: Battle of the password manager titans
+Motherboard first received word of the hack on Sunday morning, along with access to the database of information. The publication was able to verify some of the details authenticity of the leaked data.
+On Sunday, a Twitter account with a pro-Palestinian agenda reportedly published some data, and included a screenshot of the FBI computer the hacker allegedly gained access to.
+On Monday, he made good on a promise to release the rest of the information.
+The hacker did not tell Motherboard how sensitive the data is, but noted that the attack was carried out by compromising the email account of a Justice Department employee.
+"We are looking into the reports of purported disclosure of DHS employee contact information," a DHS spokesperson said in a statement. "We take these reports very seriously, however there is no indication at this time that there is any breach of sensitive or personally identifiable information."
+In January, the  Fraternal Order of Police (FOP), a union representing law enforcement in the US, said it believed 2.5GB of data was taken from its servers and dumped online.
+Cyber crimes have been growing at an unprecedented rate . The British insurance company Lloyd's says that cyber attacks cost businesses as much as $400 billion a year, which includes the disruption of business following the hacks.
+We have reached out to the DHS and FBI for more details on the alleged hack.
+This article has been updated with additional information.
+

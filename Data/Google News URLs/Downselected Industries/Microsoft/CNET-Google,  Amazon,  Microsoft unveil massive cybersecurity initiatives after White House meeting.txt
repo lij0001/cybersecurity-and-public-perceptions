@@ -1,0 +1,33 @@
+Google, Amazon, Microsoft unveil massive cybersecurity initiatives after White House meeting
+CEOs including Apple's Tim Cook, IBM's Arvind Krishna and Amazon's Andy Jassy were in attendance.
+Carrie Mihalcik
+Aug. 25, 2021 3:12 p.m. PT
+Carrie Mihalcik
+Senior Editor / News
+Carrie Mihalcik has lived on both coasts and can definitively say that Chesapeake Bay blue crabs are the best. She's been reporting and editing for more than a decade, including at the National Journal in Washington, DC, and CurrentTV in San Francisco. She's currently a Senior Editor at CNET focused on breaking news.
+Richard Nieva
+Senior reporter
+Richard Nieva is a senior reporter for CNET News, focusing on Google and Yahoo. He previously worked for PandoDaily and Fortune Magazine, and his writing has appeared in the New York Times, on CNNMoney.com and on CJR.org.
+Apple CEO Tim Cook, IBM CEO Arvind Krishna and Google CEO Sundar Pichai were among those to attend the White House's cybersecurity meeting.
+Erin Scott/Getty Images
+The heads of Apple, Google, Amazon, Microsoft and IBM are among the business leaders that met with President Joe Biden at the White House on Wednesday to discuss how the government and private sector can work together to improve the nation's cybersecurity, according to a senior administration official.
+"Most of our critical infrastructure is owned and operated by the private sector, and the federal government can't meet this challenge alone," Biden said during a brief comment at the start of the meeting. "I've invited you all here today because you have the power, the capacity and the responsibility, I believe, to raise the bar on cybersecurity."
+Biden (spaced from the other participants) convenes a cybersecurity meeting and does not answer a question about Afghanistan. pic.twitter.com/nC81cnP5nE
+— Tal Kopan (@TalKopan) August 25, 2021
+The government and business leaders made announcements in key areas that build on the administration's efforts to shore up the nation's cybersecurity. The tech CEOs also met with members of Biden's cabinet to look at ways to build more-enduring cybersecurity, while other executives will focus on critical infrastructure and the cybersecurity workforce.
+In a press release , the White House said the National Institute of Standards and Technology "will collaborate with industry and other partners to develop a new framework to improve the security and integrity of the technology supply chain." Microsoft, Google and IBM are among the companies who have pledged to participate in the initiative.
+At the meeting, Google CEO Sundar Pichai announced the search giant will invest more than $10 billion over the next five years in cybersecurity. The effort will include helping to secure the supply chain and strengthening open-source security. The investment will also expand "zero-trust" programs, in which organizations don't automatically trust any person or device when it comes to cybersecurity.
+Google also pledged to train 100,000 Americans in tech support and data analytics through its Google Career Certificate program. In addition, the company will train over 10 million Americans in basic to advanced digital skills by 2023.
+"We welcomed the opportunity to participate in President Biden's White House Cyber Security Meeting today, and appreciated the chance to share our recommendations to advance this important agenda," Kent Walker, Google's Senior Vice President of Global Affairs, said in a blog post announcing the new initiatives. "The meeting comes at a timely moment, as widespread cyberattacks continue to exploit vulnerabilities targeting people, organizations, and governments around the world."
+IBM also made a handful of announcements at the meeting. The company will train more than 150,000 people in cybersecurity skills over the next three years, CEO Arvind Krishna said in a post on LinkedIn. Krishna also called for establishing voluntary public reporting standards on cybersecurity practices.
+See also
+Best VPN service of 2021
+The meeting, announced by the administration in July, follows several high-profile ransomware and cyberattack episodes in the US. So far this year, ransomware attacks have shut down a gas pipeline and a major meat producer , fueling concerns that other critical infrastructure is at risk. A number of federal agencies also fell victim to the wide-reaching SolarWinds hack that was uncovered late last year.
+Other tech leaders who attended the meeting included Amazon CEO Andy Jassy, Apple CEO Tim Cook, Microsoft CEO Satya Nadella and Carlos Rodriguez CEO of payroll services company ADP.
+In a statement Wednesday afternoon, Amazon shared two new security initiatives: cybersecurity training materials that'll be made available to the public starting in October, and a free multi-factor authentication device for qualified AWS customers to further help protect against cyberattacks.
+"A fundamental problem when addressing current cybersecurity threats is education, which is why we're excited to share our Amazon Security Awareness training for free to help organizations and individuals understand how to navigate and fight against security events," Steve Schmidt, AWS chief information security officer, said in a statement. "And by giving qualified AWS customers access to free MFA tokens, we've made it even easier for companies to use this powerful tool to protect their data and important technology assets."
+In addition, Microsoft's Nadella tweeted : "Thank you @POTUS for convening a critical conversation on cybersecurity. Microsoft will invest $20 billion to advance our security solutions over the next 5 years, $150 million to help US government agencies upgrade protections, and expand our cybersecurity training partnerships."
+Also attending Wednesday's event were executives from the financial, education, energy and insurance industries, including JPMorgan Chase CEO Jamie Dimon and ConocoPhillips CEO Ryan Lance.
+Get the CNET Windows Report newsletter
+Get smarter with the latest Microsoft news, reviews and advice on Windows PCs. Delivered Wednesdays.
+

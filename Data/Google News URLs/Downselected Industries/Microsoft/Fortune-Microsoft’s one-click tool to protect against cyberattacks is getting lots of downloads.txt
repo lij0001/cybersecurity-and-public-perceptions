@@ -1,0 +1,22 @@
+Microsoft’s one-click tool to protect against cyberattacks is getting lots of downloads
+BY ERIC TUCKER AND 
+THE ASSOCIATED PRESS
+March 22, 2021 10:29 AM CDT
+
+A tool designed to help businesses protect themselves from further compromises after a global hack of Microsoft email server software has been downloaded more than 25,000 times since it was released last week, the White House's National Security Council said Monday.
+
+As a result, the number of vulnerable systems has fallen by 45%, according to an NSC spokesperson. 
+
+The one-click Microsoft tool was created to protect against cyberattacks and to scan systems for compromises and fix them. It was developed after a massive hack affecting an estimated tens of thousands of users of servers running Microsoft’s Exchange email program.
+
+The breach was discovered in early January and was attributed to Chinese cyber spies targeting U.S. policy think tanks. Then in late February, five days before Microsoft Corp. issued a patch on March 2, there was an explosion of infiltrations by other intruders, piggybacking on the initial breach.
+
+The White House earlier this month described the hack as an “active threat” that was being addressed by senior national security officials. The administration's response is being led by deputy national security adviser Anne Neuberger, who convened government officials and private sector experts to brainstorm solutions, particularly given that smaller businesses often lack resources to counter cyber attacks and to clean up after hacks. The administration pressed Microsoft to come up with a more simplified and streamlined fix and to track the number of compromised systems.
+
+Since the release of the tool, the number of vulnerable systems in the United States has fallen to fewer than 10,000 from at least 120,000 at the peak. Many of the remaining vulnerable systems are tied to small businesses but not limited to any one sector.
+
+While Microsoft has taken considerable heat for being the provider of software that elite hackers have exploited, Charles Carmakal, senior vice president and chief technical officer of prominent cybersecurity firm FireEye, said that Microsoft deserves credit for working hard to help people who run its software defend themselves.
+
+He cited, especially, the downloadable turnkey script that people can use to apply patches and see if their systems have been compromised. 
+
+“The level of effort that they put into this to help companies defend themselves is terrific," he said. "It’s a tough situation that organizations are in with the vulnerability in general.”

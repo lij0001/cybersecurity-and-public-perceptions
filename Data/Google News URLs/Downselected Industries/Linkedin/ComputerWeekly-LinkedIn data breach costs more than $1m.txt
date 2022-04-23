@@ -1,0 +1,37 @@
+LinkedIn data breach costs more than $1m
+
+LinkedIn says the forensic investigation and other recovery costs of the data breach in June could have topped $1m.
+
+By Warwick Ashford, Senior analyst
+Published: 06 Aug 2012 9:45
+
+LinkedIn says the forensic investigation and other recovery costs of the data breach in June could have topped $1m.
+
+The professional social network confirmed that "some" of the stolen passwords posted online by a hacker correspond to accounts on the professional networking site.
+
+The confirmation came after reports that 6.5 million encrypted stolen passwords had been posted on a Russian web forum, and that hackers were working on decrypting them.
+
+The stolen passwords were encrypted using an outdated SHA-1 hash function created by the US National Security Agency.
+
+The cost of the breach was revealed by the Steve Sordello, chief financial offer at LinkedIn, in a conference call with journalists and analysts about the firm's second quarter financial results.
+
+He said LinkedIn continued to strengthen its security and is expected to add $2m to $3m in costs in the current quarter toward those efforts, according to reports.
+
+Since the breach, LinkedIn has improved password-strengthening measures and enhanced the security of its infrastructure and data, said chief executive Jeff Weiner in the conference call.
+
+Weiner claimed that in terms of membership growth and engagement the "health" of LinkedIn remains as strong as it was before the breach.
+
+At the time of the breach, LinkedIn withdrew all compromised passwords, but said affected members who updated their passwords and members whose passwords were not compromised would benefit from new enhanced security measures.
+
+These measures included hashing and salting password databases, said LinkedIn's Vicente Silveira in a blog post.
+
+Despite the breach, LinkedIn reported strong revenue in the second quarter from advertising and premium subscriptions.
+
+Revenue for the second quarter was $228m, an increase of 89% compared with $121m in the second quarter of 2011.
+
+Net income for the second quarter was $2.8m, down from $4.5m for the same period the previous year. But Sordello ascribed this to "aggressive" investment to achieve long term goals.
+
+In its outlook for the full year, LinkedIn raised its expected revenue range to $915m to $925m from the prior range of $880m to $900m. Analysts had predicted $907m.
+
+LinkedIn's stock rose more than 7% after the results came out last week, and the company remains among the best-performing of the newly-traded tech companies.
+

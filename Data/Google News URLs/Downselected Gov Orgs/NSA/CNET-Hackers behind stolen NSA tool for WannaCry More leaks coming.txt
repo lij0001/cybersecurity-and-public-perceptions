@@ -1,0 +1,26 @@
+Featured Politics Social Media Privacy Misinformation
+Hackers behind stolen NSA tool for WannaCry: More leaks coming
+The Shadow Brokers group unleashed an exploit that fueled a global ransomware attack. Now they say they've got more where that came from.
+Alfred Ng
+May 16, 2017 2:15 p.m. PT
+Alfred Ng
+Senior Reporter / CNET News
+Alfred Ng was a senior reporter for CNET News. He was raised in Brooklyn and previously worked on the New York Daily News's social media and breaking news teams.
+The Shadow Brokers have resurfaced for the first time since August.
+MCT Graphics via Getty Images
+The WannaCry ransomware never could have escalated as far as it did without the Shadow Brokers. And the hacker group has just resurfaced.
+The exploit, codenamed EternalBlue, was first discovered by the NSA, but leaked to the world after the Shadow Brokers stole the agency's hacking arsenal . The group, quiet since August, returned Tuesday with a warning for the National Security Agency and the rest of the world: There are going to be more leaked tools.
+"In June, TheShadowBrokers is announcing 'TheShadowBrokers Data Dump of the Month' service," the group wrote in its open letter on the Steemit website Tuesday . "Is being like wine of month club."
+The hacker group claims that it still has 75 percent of the the US's cyber arsenal, and could release tools that exploit browser, router and phone vulnerabilities, as well as compromised network data from Russia, China, Iran and North Korea.
+The Shadow Brokers originally tried selling off the stolen tools in an auction, but backed down after receiving no bidders . In the Tuesday letter, they said they weren't "interested in stealing grandmothers' retirement money," but wanted to send a message to the Equation Group, a hacking group linked to the NSA .
+The Shadow Brokers said they'll release more details about their monthly data dump in June, including how interested subscribers could sign up. And after the massive success of WannaCry's ransomware breach, there's certainly much more demand.
+"They've proven that these are highly effective tools in their possession, so people are going to be very interested in purchasing this, especially other criminals," Sean Dillon, a senior security analyst at RiskSense said. "They still have the government's tools, and they want to make money off of it."
+It's already earned the hackers behind WannaCry more than $70,000 in just four days . The same EternalBlue exploit has also been used to infect computers with Aydlkuzz , malware that stealthily enslaves your PC to mine for cryptocurrency , according to researchers at Proofpoint.
+Once somebody gets the data dump from the Shadow Brokers, Dillon said, the exploits would most likely become public. At the end of the letter, the hacker group hinted the NSA could make all these problems go away if the agency paid up for the tools.
+When the Shadow Brokers first put the leaked tools up for sale, they demanded 1 million bitcoins, which then translated to $580 million . Currently, that amount is worth  $1.76 billion.
+"They can't pay anywhere close to the mark," Dillon said.
+CNET Magazine : Check out a sample of the stories in CNET's newsstand edition.
+Logging Out : Welcome to the crossroads of online life and the afterlife.
+Get the CNET Daily News newsletter
+Catch up on the biggest news stories in minutes. Delivered on weekdays.
+

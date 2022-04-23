@@ -1,0 +1,18 @@
+Log Out
+DOD DISA discloses data breach
+The Defense Information Systems Agency (DISA) handles IT and telecommunications support for the White House and military troops.
+Posted in Zero Day on
+February 20, 2020
+10 dangerous app vulnerabilities to watch out for (free PDF)
+The Defense Information Systems Agency (DISA), a Department of Defense (DOD) agency tasked with providing secure telecommunications and IT support for the White House, US diplomats, and military troops, has disclosed a data breach.
+According to breach notification letters sent to DISA employees last week, the security incident took place between May and July 2019, when a DISA system "may have been compromised."
+DISA says that employee personal information, including social security numbers, was exposed during this timeframe, but did not say how many were impacted.
+The DOD agency did not provide any other details about the breach, however, it did add that it had no evidence to suggest that employees' personal data was misused prior to sending the notification letter.
+Just when you think the US Federal and Intelligence agencies were done being breached.
+This happens. DISA, the Defense Information Systems Administration has suffered a compromise of epic proportions.
+But here's a notification for your troubles #infosec #disa pic.twitter.com/GQDnJlevhG
+— #CyberRonin #MetaHuman Paying Your Attention (@bitsdigits) February 20, 2020
+DISA employs around 8,000 military and civilian employees, according to Reuters , which first spotted the notification letter earlier today.
+The agency, in accordance with US laws, is now offering free credit monitoring to all impacted.
+This is the second data breach the DOD has disclosed in the last two years. In October 2018, more than 30,000 DOD military and civilian personnel had their personal and payment card details exposed via a security breach at a third-party contractor .
+

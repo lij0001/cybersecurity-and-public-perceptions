@@ -1,0 +1,22 @@
+Log Out
+​Yahoo says 32m user accounts were accessed via cookie forging attack
+The former tech giant believes a sophisticated cookie forging attack was used to access 32 million Yahoo accounts.
+| Topic: Security
+Yahoo has said that an unauthorised third party accessed the company's proprietary code to learn how to forge certain cookies, which it said resulted in an intruder accessing approximately 32 million user accounts without a password.
+Security
+LastPass vs 1Password: Battle of the password manager titans
+"The outside forensic experts have identified approximately 32 million user accounts for which they believe forged cookies were used or taken in 2015 and 2016," Yahoo disclosed in its annual report, filed with the US Securities and Exchange Commission (SEC) on Wednesday.
+"We believe that some of this activity is connected to the same state-sponsored actor believed to be responsible for the 2014 security incident."
+Yahoo began warning some customers in mid-February that state-sponsored attackers had accessed their accounts by using the sophisticated cookie forging attack.
+Yahoo disclosed the details of its first hack in September last year, pointing towards a state-sponsored actor nearly two years after the breach allegedly took place.
+Approximately 500 million user accounts were affected by what was then the largest known data breach in history. Yahoo said at the time that while passwords and other information were stolen, payment and bank information remained safe.
+A second breach was then revealed in December, with more than 1 billion accounts believed to have been stolen back in August 2013, a year prior to the previously disclosed attack.
+In a statement, Yahoo said the hackers may have stolen names, email addresses, telephone numbers, hashed passwords, dates of birth, and, in some cases, encrypted or unencrypted security questions and answers.
+The forged cookies have since been invalidated by the company so they cannot be used to access user accounts, Yahoo said on Wednesday.
+To date, approximately 43 putative consumer class action lawsuits have been filed against Yahoo in the United States federal and state courts and in foreign courts relating to the security incidents, the company disclosed on Wednesday, adding that it is continuing to work with US law enforcement authorities on the matters.
+Last month, Yahoo and Verizon agreed to reduce the price of the upcoming acquisition deal by $350 million in the wake of the two cyber attacks, with both companies expected to share some legal and regulatory liabilities after the deal closes.
+The deal, now valued at about $4.48 billion in cash , is expected to close in the second quarter.
+On Wednesday, Yahoo confirmed that its CEO Marissa Mayer will not be receiving her cash bonus for 2016 that was otherwise expected to be paid to her. Yahoo said Mayer offered to forgo any 2017 annual equity award given that the 2014 security incident occurred during her tenure.
+Upon the closing of the billion-dollar sale of Yahoo's operating business to Verizon, the remaining parts of Yahoo will be renamed to Altaba Inc as it begins its new direction as an investment company.
+Mayer will not be joining Altaba Inc.
+

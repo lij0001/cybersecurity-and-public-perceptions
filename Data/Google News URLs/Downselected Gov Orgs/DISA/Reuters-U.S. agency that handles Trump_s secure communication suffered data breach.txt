@@ -1,0 +1,16 @@
+By Christopher Bing
+3 Min Read
+WASHINGTON (Reuters) - The U.S. defense agency that handles secure communications for President Donald Trump said Social Security numbers and other personal data in its network may have been compromised, according to letters seen by Reuters on Thursday that were sent to people possibly affected.
+FILE PHOTO: A building at Fort Meade, Maryland, where the Defense Information Systems Agency is headquartered, September 19, 2007. REUTERS/Jason Reed/File Photo
+The letters, dated Feb. 11, 2020, say that between May and July 2019, personal data may have been compromised “in a data breach” of a system hosted by the Defense Information Systems Agency.
+The agency provides direct telecommunications and IT support for the president, Vice President Mike Pence, their staff, the U.S. Secret Service, the chairman of the Joint Chiefs of Staff and other senior members of the armed forces, according to its website.
+An undated photograph obtained by Reuters shows a letter sent by the Defense Information Systems Agency to an unspecified number of former employees. The letter, dated Feb. 11, 2020, says that between May and July 2019, personal data may have been compromised "in a data breach" of a system DISA-hosted system.
+The DISA letters gave few further details. For example, they did not say what part of DISA’s network had been breached, nor identify which individuals may have had their data compromised.
+The White House did not respond to a request for comment.
+The term data breach can have many meanings, from hackers penetrating a network to a supposedly secure server being accidentally exposed to the internet.
+The agency’s letters said it had no evidence any personal data possibly taken was misused, but that it was required to notify individuals who may have had data taken.
+Pentagon spokesman Chuck Prichard said individuals possibly affected were being offered “information about actions that can be taken to mitigate possible negative impacts” of the breach, as well as free credit monitoring.
+DISA, headquartered at Fort Meade in Maryland, employs about 8,000 military and civilians, according to its website. Prichard did not say how many people could have been affected by the breach, saying only that DISA had investigated the incident “and taken appropriate measures to secure the network.”
+Aside from high-level communications, DISA was also drafted to help reform the government security clearance process following digital break-ins at the U.S. Office of Personnel Management in 2014 and 2015 that resulted in the compromise of records belonging to more than 21 million current and former government employees.
+Reporting by Christopher Bing; additional reporting by Raphael Satter and Idrees Ali in Washington. Editing by Jonathan Oatis, Howard Goller and Daniel Wallis
+

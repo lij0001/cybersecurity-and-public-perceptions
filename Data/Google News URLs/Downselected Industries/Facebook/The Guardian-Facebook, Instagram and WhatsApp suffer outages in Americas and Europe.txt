@@ -1,0 +1,26 @@
+This article is more than 3 years old
+Facebook, Instagram and WhatsApp suffer outages in Americas and Europe
+This article is more than 3 years old
+Family of apps, including Instagram and Messenger, encountering problems but company spokesman says it is not a cyber-attack
+Facebook has been suffering outages across the world on Wednesday. Photograph: Joel Saget/AFP/Getty Images
+Facebook has been suffering outages across the world on Wednesday. Photograph: Joel Saget/AFP/Getty Images
+Guardian staff and agencies
+Wed 13 Mar 2019 15.00 EDT
+Last modified on Thu 14 Mar 2019 07.51 EDT
+Facebook has been suffering from outages across the world since around 12pm ET (4pm GMT) Wednesday.
+All four of the company’s main applications – Facebook, Instagram, WhatsApp and Messenger – were encountering problems, according to Downdetector.com . The outages appeared to be concentrated in the Americas and Europe.
+“We’re aware that some people are currently having trouble accessing the Facebook family of apps,” spokesman Tom Parnell said by email. “We’re working to resolve the issue as soon as possible.”
+Parnell subsequently added: “We’re focused on working to resolve the issue as soon as possible, but can confirm the issue is not related to a DDoS attack.” A distributed denial of service attack is a type of cyber-attack in which a perpetrator can flood a website or platform with so much virtual traffic that it shuts down.
+We're focused on working to resolve the issue as soon as possible, but can confirm that the issue is not related to a DDoS attack.
+— Facebook (@facebook) March 13, 2019
+According to Downdector.com, the outages started in parts of the US, including the east and west coast, parts of Europe and in Australia. Users in New Zealand also reported problems.
+Both Facebook’s desktop site and app appeared to be affected. Some users saw a message that said Facebook was down for “required maintenance”.
+Facebook did not say what was causing the outages, which were still occurring as of 2.15pm ET, or which regions were affected.
+On Wednesday, Google was also hit by outages around the world . Users reported issues with Gmail, Google Drive, Hangouts and Google Maps for several hours.
+Naturally, social media users voiced their concerns via Facebook’s rival, Twitter.
+Facebook, Instagram and WhatsApp are down. But I hear MySpace is rocking right now.
+— George Takei (@GeorgeTakei) March 13, 2019
+Facebook down...Instagram down...What’s App down...so where are we going when Twitter crashes y’all? 🤔
+— Daisha McBride (@The_RapGirl) March 13, 2019
+Topics
+

@@ -1,0 +1,16 @@
+EBay faces class action suit over data breach
+The proposed class action suit demands damages from eBay
+Bangalore Correspondent, IDG News Service |
+EBay faces a class action suit in a U.S. federal court over a security breach earlier this year.
+The consumer privacy class action lawsuit, filed Wednesday by Collin Green, a citizen of the state of Louisiana, alleged that the security breach was the result of eBay's inadequate security in regard to protecting identity information of its millions of customers.
+[ Raising awareness quickly: The eBay data breach ]
+The e-commerce site's failure to properly secure the information "has caused, and is continuing to cause, damage to its customers, the putative class members herein," according to the complaint by Green which asks for class action status.
+EBay informed users in May that it was aware of unauthorized access to eBay systems that may have exposed some customer information. The company said there was no evidence that financial data was compromised. The company subsequently advised users to change their eBay passwords as the attack compromised a database containing eBay user passwords.
+"The thieves had access to, and reportedly copied, customer names, encrypted passwords, email addresses, physical addresses, phone numbers, and dates of birth, at a minimum," according to the lawsuit filed in the U.S. District Court for the Eastern District of Louisiana.
+The company did not immediately notify its customers when it first became aware of the February 2014 security breach and instead waited to inform customers until after the news had leaked out of the company, according to the complaint. "eBay's profit-driven decision to withhold the fact of its security lapse further damaged the class members who were prevented from immediately mitigating the damages from the theft," it said, while blaming eBay for not adequately securing the data.
+[ How to protect your company from an eBay-like data breach ]
+EBay could not be immediately reached for comment.
+Green, on behalf of himself and others similarly situated, has asked for a jury trial. The combined claims of the proposed class members exceed US$5 million exclusive of interest and costs.
+John Ribeiro covers outsourcing and general technology breaking news from India for The IDG News Service. Follow John on Twitter at @Johnribeiro . John's e-mail address is john_ribeiro@idg.com
+Next read this
+

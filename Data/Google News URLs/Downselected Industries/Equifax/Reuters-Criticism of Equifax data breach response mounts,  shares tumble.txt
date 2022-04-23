@@ -1,0 +1,42 @@
+By Dustin Volz , David Shepardson
+7 Min Read
+(Reuters) - Equifax Inc EFX.N faced a storm of criticism on Friday over a hack that may have compromised personal data for some 143 million Americans, with consumers clamoring for answers and cyber security experts questioning the response to the massive breach.
+Lawmakers and regulators joined the chorus, scrutinizing the company’s follow-up as it encouraged potential victims to sign up for free credit monitoring services. Equifax shares tumbled as much as 18 percent, the biggest one-day drop in 16 years, as complaints mounted that the company’s online and phone support systems were either broken or insufficient.
+The hack, among the largest ever recorded, was especially alarming due to the richness of the information exposed, which included names, birthdays, addresses and Social Security and driver’s license numbers, cyber researchers said.
+“Another day, another dumpster fire in cyber security,” said Ryan Kalember, senior vice president of cyber security firm Proofpoint. The breach was “especially troubling” because companies that have suffered data breaches typically offer free credit monitoring services from firms like Equifax, which has now itself suffered a huge cyber attack, he added.
+Bigger hacks, such as those disclosed by Yahoo last year, did not put as much sensitive information at risk.
+Responding to criticism, Equifax apologized in a corporate statement Friday evening for any inconvenience caused by its support website or call center.
+It said the site was now functioning properly and that it had tripled the size of its call center team to more than 2,000 agents, with more to be added.
+Moody’s Investors Service said on Friday that the breach would impede Equifax’s growth over the next three to four quarters and hurt its reputation as a custodian of consumer data.
+The company would incur significant costs to remediate the breach, potential litigation and regulatory action, and higher cyber insurance premiums, Moody’s said. But it said that Equifax’s rating and stable outlook were not affected.
+Related Coverage
+U.S. House panels to hold hearings on Equifax data breach
+Credit monitoring services such as Equifax collect vast amounts of financial information from consumers without their knowledge, working with banks and other lenders, for example, to track the creditworthiness of individuals.
+At least five state attorneys general, including those of New York and Illinois, said they were formally investigating the breach.[nL2N1LP19R]
+Two proposed class-action lawsuits, one filed in Portland, Oregon, and one in Atlanta, alleged that Equifax had been negligent in protecting consumer data. [nL2N1LP14B]
+Atlanta-based Equifax disclosed the breach on Thursday and said the company had discovered it on July 29. It said hackers accessed accounts between mid-May and July, and some British and Canadian residents were also affected.[nL4N1LO5FJ]
+The company has not said specifically how attackers were able to break in or why it did not disclose the breach sooner.
+Robert W. Baird & Co analyst Jeffrey Meuler wrote to clients that the hackers used a flaw in open-source Struts software, distributed by the nonprofit Apache Software Foundation.
+Meuler in the note did not provide the source of the information, and he did not respond to requests for comment.
+Equifax did not respond to questions seeking comment.
+Slideshow ( 5 images )
+Struts is widely used in major companies, and an Apache spokeswoman said it appeared that Equifax had not applied the patches for flaws that have been discovered this year.
+In March, Apache warned of one flaw, and attack code soon circulated, with hackers exploiting taking advantage soon after that, researchers said.
+The Federal Bureau of Investigation said it is tracking the data breach. A U.S. intelligence official told Reuters it was too soon to know if the attack was strictly criminal in nature or if it had the backing of a foreign government.
+Slideshow ( 5 images )
+WAIVED LEGAL RIGHTS?
+Equifax drew scrutiny for terms of service that accompanied a free credit monitoring offering to all U.S. consumers worried about the data breach that it promoted on its support website.
+Agreeing to the terms appeared to forfeit some rights to sue individually or join a class-action suit, but Equifax said on its website that the arbitration clause applied only to the credit monitoring offer and not to any damages caused by the recently discovered data breach.
+The U.S. Consumer Financial Protection Bureau, however, still had concerns with the terms associated with the free credit monitoring offer. It is “troubling that Equifax is forcing people to waive legal rights in order to receive fraud monitoring after the company’s breach put their personal information at risk,” a CFPB spokesman said in a statement.
+Some cyber security experts criticized Equifax for setting up a support website under a different domain than the company’s main website, mirroring a tactic that can be used to fraudulently collect data.
+CALLS FOR HEARINGS
+The U.S. House of Representatives Financial Services Committee and the House Energy and Commerce Committee both announced plans to hold hearings examining the breach.
+Representative Ted Lieu asked Equifax why it waited so long to disclose the breach and has asked the House Judiciary Committee to hold a hearing with the three major credit reporting agencies to explain how they will prevent future attacks.
+Within the past two years, Equifax has had W-2 federal wage tax data stolen from its website and a subsidiary. Larger rival Experian Plc EXPN.L reported a data breach two years ago involving some 15 million people.
+The Republican and Democratic leaders of the Senate Finance Committee wrote to Equifax with a series of questions about its required safeguards and asked that committee staffers be briefed by Sept. 15.
+Senator Richard Blumenthal pointed to Equifax’s previous incidents and said it had “no excuse” for not strengthening cyber security, and called on the U.S. Federal Trade Commission to investigate.
+Equifax shares closed down 13.7 percent at $123.23 after touching a more than seven-month low.
+Shares of rival TransUnion TRU.N finished down 3.8 percent, while Experian closed down 0.7 percent on the London Stock Exchange.
+Equifax handles data on more than 820 million consumers and 91 million businesses worldwide and manages employee information from more than 7,100 employers, according to its website.
+Reporting by Dustin Volz and David Shepardson in Washington; Additional reporting by Aishwarya Venugopal, Sweta Singh, Pete Schroeder, Jonathan Stempel, Mark Hosenball and Joseph Menn; Editing by Meredith Mazzilli and Leslie Adler
+

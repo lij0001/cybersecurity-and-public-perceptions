@@ -1,0 +1,19 @@
+Atlanta officials reveal worsening effects of cyber attack
+By Reuters Staff
+3 Min Read
+(Reuters) - The Atlanta cyber attack has had a more serious impact on the city’s ability to deliver basic services than previously understood, a city official said at a public meeting on Wednesday, as she proposed an additional $9.5 million to help pay for recovery costs.
+FILE PHOTO: A view of Atlanta's City Hall, in Atlanta, Georgia, U.S. March 31, 2018. REUTERS/Laila Kearney/File Photo
+Atlanta’s administration has disclosed little about the financial impact or scope of the March 22 ransomware hack, but information released at the budget briefings confirms concerns that it may be the worst cyber assault on any U.S. city.
+More than a third of the 424 software programs used by the city have been thrown offline or partially disabled in the incident, Atlanta Information Management head Daphne Rackley said. Nearly 30 percent of the affected applications are considered “mission critical,” affecting core city services, including police and courts.
+Initially, officials believed the reaches of the cyber assault on city software was close to 20 percent and that no critical applications were compromised, Rackley said.
+“It’s a lot more... it seems to be growing every day,” she told the Atlanta City Council, which must vote on a fiscal 2019 budget by the end of the month.
+Rackley anticipated an additional $9.5 million would be needed by her department in the coming year due to the hacking. That would be a sharp increase from the $35 million Mayor Keisha Lance Bottoms suggested for the technology department in her budget pitch, which was delayed in the cyber incident.
+Top city officials are still discovering the extent of the ransomware incident, in which hackers demanded $51,000 worth of bitcoin for the release of encrypted city data. Atlanta has said it did not pay the ransom.
+Departments citywide, including municipal courts, told the council on Wednesday about their struggles to regain workplace normalcy since the attack. Interim City Attorney Nina Hickson said her office lost 71 of 77 computers as well as a decade of legal documents.
+The discussions came two days after Atlanta Police Chief Erika Shields told local television news station WSB-TV 2 that the hack wiped out police dash-cam recordings. “That is lost and will not be recovered,” she said in a brief televised interview.
+City Council President Felicia Moore told the administrators she was frustrated by how little she has been told about the cyber attack investigation. Many times, Moore said, she learns about developments in the news. “Something has to give,” she said.
+Councilman Howard Shook, chair of the finance committee, asked how much attack-related costs have risen elsewhere in the city since the budget proposal was put together.
+“A lot of water has gone over the dam since then,” Shook said.
+In response, administrators said they were still working on determining total costs. Deputy Chief Financial Officer John Gaffney, whose department help’s develop the mayor’s budget proposal, said the city was still in the “response phase.”
+Reporting by Laila Kearney; Editing by Leslie Adler
+

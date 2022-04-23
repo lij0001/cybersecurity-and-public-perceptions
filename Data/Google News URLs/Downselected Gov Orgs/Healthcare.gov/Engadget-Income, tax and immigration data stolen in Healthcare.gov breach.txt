@@ -1,0 +1,17 @@
+Income, tax and immigration data stolen in Healthcare.gov breach
+75,000 people were affected, including children.
+In this article: breach , cms , gear , hack , healthcare , HealthCare.gov , hhs , politics , security , UsGovernment
+KAREN BLEIER via Getty Images
+The Centers for Medicare and Medicaid Services (CMS) now has details about the data stolen in the breach of Healthcare.gov that occurred last month. According to the government agency, a significant amount of personal information including partial Social Security numbers, tax information and immigration status was compromised in the breach. No financial information was stolen.
+In a post hidden on a Healthcare.gov page titled "How we use your data," the CMS confirmed the breach occurred and said it started to alert via phone call the 75,000 affected people starting November 5th. That notification will be followed by a letter detailing the breach and what information was compromised.
+In the letter, CMS discloses the entirety of the information stolen by hackers, and it's a fairly substantial list of data points:
+Name, date of birth, address, sex, and the last four digits of the Social Security number (SSN), if SSN was provided on the application;
+Other information provided on the application, including expected income, tax filing status, family relationships, whether the applicant is a citizen or an immigrant, immigration document types and numbers, employer name, whether the applicant was pregnant, and whether the applicant already had health insurance;
+Information provided by other federal agencies and data sources to confirm the information provided on the application, and whether the Marketplace asked the applicant for documents or explanations;
+The results of the application, including whether the applicant was eligible to enroll in a qualified health plan (QHP), and if eligible, the tax credit amount; and
+If the applicant enrolled, the name of the insurance plan, the premium, and dates of coverage.
+The letter does note that bank account numbers and credit card numbers were not compromised. Any diagnosis or treatment information was also inaccessible to the hackers. This is also not the first time Healthcare.gov has suffered from a breach , though no sensitive data had previously been stolen.
+The original breach was discovered on October 16th, when CMS spotted agent and broker accounts performing excessive searches for consumers. Through those searches, it was possible to gain access to personal information of people listed on Healthcare.gov Marketplace applications. CMS has since shut down the agent and broker accounts involved in the searches. Agent and broker functions have also been shut off until additional security improvements are made.
+All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these links, we may earn an affiliate commission.
+Popular on Engadget
+

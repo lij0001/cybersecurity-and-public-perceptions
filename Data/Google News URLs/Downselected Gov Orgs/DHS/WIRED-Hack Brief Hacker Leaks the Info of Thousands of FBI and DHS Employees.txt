@@ -1,0 +1,19 @@
+Save Story
+To revist this article, visit My Profile, then View saved stories .
+Last year, a hack of the US Office of Personnel Management exposed the personal information of millions of government employees. Now, Motherboard reports , a hacker has threatened another federal employee dump of a much smaller scale but potentially more sensitive target: the names, titles, and contact information of nearly 30,000 FBI and Department of Homeland Security workers.
+The Hack
+Motherboard first reported the hack on Sunday, after obtaining the data. Since then, the information of roughly several thousand DHS employees appears to have been released by anonymous sources. The 20,000 FBI employees appear not to have been exposed yet.
+Update: The FBI information has now been leaked as well. Both dumps are accompanied by pro-Palestine slogans.
+The hacker told Motherboard that he was able to access the files through the compromised email account of a Department of Justice employee. He claimed to have downloaded 200GB of files, out of 1TB total available to him. That would imply that the information that’s been leaked so far is just a small percentage of the total.
+Who’s Affected
+As of right now, the names, titles, email addresses, and phone numbers of 9,000 DHS employees have been made public, with 20,000 FBI employees at risk of exposure as well. The hacker told Motherboard that he also had some military emails and credit card numbers, but provided neither proof nor indication that he intended to release them.
+The FBI employees nearly 35,000 people, meaning that more than half of the agency’s people would be at risk. It’s not clear if any of the 20,000 who are involved in the hack are in sensitive positions.
+How Serious Is This?
+The hack doesn’t impact you directly unless you work for one of the agencies involved, and even then it seems most likely to result mostly in annoyance.
+What’s more serious is that these details were accessible in the first place, through seemingly not terribly sophisticated means. These are agencies that deal in highly sensitive information; if they can’t secure their digital doors, there’s no reason to think any branch of government can.
+Then again, if even the director of the CIA can’t lock down his (AOL) email account, perhaps it’s wishful thinking that any other agency’s employees might fair better.
+Brian Barrett is Executive Editor, News at WIRED, overseeing day to day coverage across the site. Prior to WIRED he was the editor in chief of the tech and culture site Gizmodo and was a business reporter for the Yomiuri Shimbun, Japan’s largest daily newspaper.
+Executive Editor, News
+Topics FBI hacks
+WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business, science to design. The breakthroughs and innovations that we uncover lead to new ways of thinking, new connections, and new industries.
+

@@ -1,0 +1,32 @@
+Business
+Target data hack affected 70 million people
+Target stock dipped 1.7 per cent in U.S. trading on Friday, after it revealed that more than 70 million people may have been affected by its data breach.
+Social Sharing
+Stock drops as retailer reveals more customers affected and names and addresses leaked
+CBC News ·
+Posted: Jan 10, 2014 9:26 AM ET | Last Updated: January 11, 2014
+A hacker attack on Target before the holiday season stole the personal information of 70 million customers.
+Target stock dipped 1.7 per cent in U.S. trading on Friday, after it revealed that more than 70 million people may have been affected by its data breach revealed in late 2013.
+Target says that personal information — including names, mailing addresses, phone numbers or email addresses – was stolen in addition to the credit card data. The number of affected customers has risen to 70 million from 40 million.
+The retailer said Friday that it learned the personal information was taken as part of its ongoing investigation into a breach announced Dec. 19.
+Regulators and privacy watchdogs have been troubled by the size and scope of the breach. "The news that Target has discovered a breach involving 70 million customers is deeply troubling," New York Attorney General Eric T. Schneiderman said.
+"Consumers … expect and deserve companies that protect their personal information when they shop on their websites and in their stores. That is why my office is participating in a national investigation into this breach, why I pressed Target to provide free credit monitoring for the 40 million Target customers identified last month, and why I insist it extends the same service to every new victim," Schneiderman said.
+Target also gave a hint as to the depth of its losses from its entry into Canada, where the discount retailer has received a lukewarm reception.
+It said it expected profit would be cut by 45 cents a share, more than the initial estimate of 32 cents a share, because of its foray into Canada. Target has 124 Canadian locations.
+It cut its fourth-quarter outlook by 30 cents a share to a range of $1.20 to $1.30 a share, saying sales had been hurt by consumers slow to forgive the data breach.
+Target said sales had been higher than expected in the important holiday sales season before it reported the data breach on Dec. 19.
+But the news that personal data may have been leaked discouraged consumers. The retailer now says sales may be down from two to six per cent in the fourth quarter compared to a year earlier and would be at least 2.5 per cent lower than previously forecast.
+In an effort to repair its relationship with shoppers, Target assured them they would have “zero liability for the cost of any fraudulent charges arising from the breach.”
+It said it would notify anyone affected by email, where it has their email address.
+“I know that it is frustrating for our guests to learn that this information was taken and we are truly sorry they are having to endure this,” CEO Gregg Steinhafel said.
+Target also is offering one year of free credit monitoring and identity theft protection to anyone who shopped in its U.S. stores.
+Since news broke of Target’s security breach in the final days of the holiday season, credit card companies and banks have been issuing warnings about potential fraud to their customers and providing them with new cards and account numbers as a precaution.
+The retailer also announced plans to close eight U.S. stores.
+Organized crime may be behind attack
+Internet security expert Claudiu Popa, CEO of Informatica, said Target customers are likely to be targeted with “phishing” attacks, in which emails, possibly with their own credit card numbers attached, are sent to them asking for information that ought to be secure.
+The very scale of the scheme argues the cyber criminals are innovative, possibly organized crime and working on a global scale, he said in an interview with CBC’s The Lang & O’Leary Exchange .
+“We’re talking about big data and big data is a big buzzword in the industry today,” he said, arguing the criminal networks involved must have a plan to quickly hit customers whose information has been stolen.
+“Of course, they have a plan and the plan is to take massive amounts of data and parcel it out. In this case, they’ve done a magnificent job of geolocating  — they’re looking at how to sort by physical location and selling them according to where the victims are,” he said.
+Popa said he was surprised other retailers had not reported attacks in the holiday season and speculated others may be studying their computer logs to try to track any unusual activity.
+With files from Canadian Press
+

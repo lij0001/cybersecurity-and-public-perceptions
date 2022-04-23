@@ -1,0 +1,12 @@
+Email
+Uber is officially under investigation by Canada’s privacy commissioner.
+In an email to MobileSyrup, a representative for the Office of the Privacy Commissioner of Canada (OPC) confirmed that the American ridesharing giant is currently under investigation for a cyberattack that affected millions of US customers.
+“Just a note to let you know that we have now opened a formal investigation,” reads an excerpt from the spokesperson’s email to MobileSyrup.
+The OPC couldn’t provide any further details about the investigation “given confidentiality provisions under [the Personal Information Protection and Electronic Documents Act].”
+Uber didn’t confirm how many — if any — Canadian users were affected by the breach. However, the company did confirm that roughly 2.7 million UK customers had been affected by the incident. In response to MobileSyrup‘s request for comment, an Uber spokesperson said that the company will be working with the OPC during the investigation.
+“The privacy of riders and drivers is of paramount importance at Uber and we will continue to work with the Privacy Commissioner on this matter,” reads an excerpt from an Uber spokesperson email to MobileSyrup.
+Last month, Uber revealed that it had concealed, for over a year, a cyberattack that affected roughly 57 million US customers.
+The cyber attack took place in October 2016, and the hackers were able to access names, email addresses and phone number of approximately 50 million Uber passengers. An additional seven million drivers had their personal information accessed, including approximately 600,000 driver’s license numbers.
+After Uber revealed the cybersecurity breach to the public, the company said that it had hired Matt Olsen, a former general counsel for the National Security Agency (NSA) and director of the National Counterterrorism Center, to “structure our security teams and processes going forward.”
+This article was originally published on MobileSyrup
+

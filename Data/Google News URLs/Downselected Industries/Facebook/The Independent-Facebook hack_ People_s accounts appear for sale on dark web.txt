@@ -1,0 +1,38 @@
+Facebook hack: People's accounts appear for sale on dark web
+Hacked accounts seen by The Independent are selling for between $3 and $12 on underground black markets
+Anthony Cuthbertson
+Wednesday 03 October 2018 18:29
+
+Hacked Facebook accounts are being sold on the dark web, showing the value of such accounts after the social network revealed 50 million of its users had been compromised in a major hack.
+
+Dozens of listings seen by The Independent feature on underground markets on the dark web – a section of the internet only accessible with specialist software – offering buyers personal data of Facebook users for as little as $3.
+
+If exploited by criminals, security experts warn that the data could be used to commit identity theft or blackmail Facebook users with compromising information.
+
+Listings are available on popular dark web market places like Dream Market, which use a similar rating system to other online retailers like Amazon and eBay to verify its vendors. Those selling Facebook credentials appear to be generally well trusted, suggesting the authenticity of the data.
+
+The hacked accounts are selling for between $3 and $12, though it is only possible to purchase them using semi-anonymous digital currencies like bitcoin and bitcoin cash.
+
+If sold individually at these prices, the value of the stolen data on the black market would be somewhere between $150m and $600m.
+
+Security experts tell The Independent that the value of the data for cyber criminals means that such hacks will continue to be a lucrative business, despite the size and skill of these firm's security teams.
+
+"Personal information is simply too valuable on the dark web. As long as stolen data continues to fetch high prices and equip perpetrators with the means necessary to carry out attacks, hold victims ransom, extort information or destroy property, organisations must exhaust all measures to diligently detect and protect their networks, devices and users," said CEO of cyber security firm SonicWall Bill Conner, who has advised both the US and UK government on security matters.
+
+"What an organisation or nation-state can or intends to do with massive amounts of information on a country's citizens should be taken very seriously."
+
+A recent report by UK firm Money Guru explained how online identities could be sold to companies for the purpose of targeted advertising.
+
+"There are few better ways to gain insight into someone's life than their social media accounts," the report stated. "These details are frequently stolen to sell to companies with little scruples about targeted advertising. It’s also a fast track to identity theft as they can take control of your accounts, lock you out and cause serious reputational damage in a short space of time."
+
+The prices show the kind of value that hacked accounts can command on the dark web, after Facebook admitted that some accounts may have been broken into because of a major flaw in its code.
+
+In a 28 September blog post detailing the hack, Facebook's vice president of product management Guy Rosen said that his company had no idea who may be behind the attack, or even whether any of the affected accounts had actually been breached.
+
+"Since we've only just started our investigation, we have yet to determine whether these accounts were misused or any information accessed," Mr Rosen wrote.
+
+"We also don't know who's behind these attacks or where they're based. We're working hard to better understand these details – and we will update this post when we have more information, or if the facts change."
+
+Facebook could be liable for fines of up to $1.63 billion – 4 per cent of its annual global revenue – under the European Union's new General Data Protection Regulation (GDPR), if it is deemed that the company did not do enough to protect the security of its users.
+
+A Facebook spokesperson did not respond to a request for comment about the dark web listings.

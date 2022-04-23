@@ -1,0 +1,32 @@
+By David Henry , Dan Freed
+5 Min Read
+NEW YORK (Reuters) - U.S. consumer credit reporting bureau Equifax Inc EFX.N risks losing support from banks unless it can show its database on millions of borrowers is secure from another cyber-attack.
+FILE PHOTO: Credit reporting company Equifax  Inc. corporate offices are pictured in Atlanta, Georgia, U.S., September 8, 2017.    REUTERS/Tami Chappell
+Banks are critical to Equifax’s operations as they give the company information on consumer debts and payments which it compiles into credit reports sold to other creditors, including mortgage and credit card lenders, landlords and hospitals.
+“If we don’t feel that they can do the job, then we will obviously look at whether we want to continue to do business with them,” said an executive at a large bank who declined to be quoted by name.
+But a withdrawal of support for Equifax by banks would come at the cost of further reliance on the other two major collectors of U.S. consumer credit and employment histories, Experian plc EXPN.L and TransUnion TRU.N .
+U.S. financial industry practice usually involves collecting credit scores from all three credit agencies before bundling loans made on homes, autos and credit cards and selling the securities in debt markets.
+Government-backed mortgage finance companies Fannie Mae and Freddie Mac, for example, check with the three credit reporting agencies. The difficulty of ending such a practice could shelter Equifax from a sudden revolt by banks.
+“Given the level of interdependence between lenders and these data providers, they have a vested interest in there being more than two and would like Equifax to still exist,” said James Thomas, an analyst of corporate credit at Standard & Poor’s.
+“If there’s only two players, then they have less ability to play them against one another” in negotiating prices for credit reports, Thomas said.
+Rick Smith, CEO of TriCo Bancshares TCBK.O , a Chico, California-based lender with $4.5 billion in assets, said it would be difficult to stop using Equifax.
+“The reality is we’re dependent upon them, as most lenders are.”
+But the willingness of lenders to support Equifax is being tested by the way the agency has managed the fall out from its disclosure on Sept. 7 that hackers had obtained access to information on 143 million people.
+“Most of the major financial institutions learned about it through the media,” the banker said. “And, their responsiveness to customers has been slow and unclear as well. We would go down to two [bureaus] if we ultimately get to the point where we think that is necessary.”
+Equifax said in a statement that it was supporting any customers who may have been impacted by the hack. “We value our banking customers and have been in close communication with them.”
+PRIVILEGED POSITION IN JEOPARDY
+Until the breach was acknowledged, investors in Equifax were confident that the company’s business model involved selling products that lenders need and that newcomers cannot duplicate.
+The welter of financial information that the credit bureaus hold, including the borrowing practices of millions of consumers, would be difficult for anyone else to gather. Most countries have no more than one or two firms that have collected consumer credit information nationally.
+“To even come close to replicating them, you would need to go to pretty much every major lender in the credit ecosystem and convince them to include you in their data provisioning,” Thomas said.
+Because of the hacking banks may now be even more reluctant now to share their customer information with a newcomer to the industry, Thomas added.
+The U.S. Securities and Exchange Commission’s admission this week that it was also hacked last year and the information possibly used for insider trading shows how widespread cyber breaches have become.
+But the scope of the Equifax breach has made the company’s privileged position appear vulnerable. Not only is there the risk of widespread losses to fraud, but lenders also risk a slowdown in the pace of account openings and credit card approvals as they take longer to check a person’s identity.
+Equifax has lost $5.8 billion of stock market value since Sept. 7, one-third of what its shares were worth before the breach was disclosed.
+Brian Gudmundson, a lawyer at Zimmerman Reed in Minneapolis, said he is preparing for a possible suit on behalf of thousands of lenders against Equifax.
+“There are going to be costs that we’re not even imagining right now,” said Gudmundson, who represented lenders in a $39 million settlement with Target Corp in 2015 over a cyber-breach of its credit card system.
+The very biggest banks, however, tend to work out legal claims on their own, Gudmundson said.
+So far, bankers say, they have not noticed an increase in fraudulent activity that would suggest the data exposed at Equifax is being used.
+Nor is it clear whether Equifax fell short of industry standards for protecting against cyber-attacks which banks are quick to say could happen to any company.
+“It is hard to be tough on them [Equifax] until the details come out,” the banker said.
+Reporting by David Henry, Dan Freed, Patrick Rucker and Jim Finkle; editing by Carmel Crimmins
+

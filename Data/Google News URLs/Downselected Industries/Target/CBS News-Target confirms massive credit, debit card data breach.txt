@@ -1,0 +1,45 @@
+Target confirms massive credit, debit card data breach
+December 19, 2013 / 6:56 AM
+/ CBS/Reuters
+Target confirms 40 million credit cards at risk from theft 02:27
+Target shoppers have been victims of a stunning theft of information on their credit and debit card accounts in recent days.
+The giant retailer said Thursday about 40 million credit and debit card accounts
+may have been impacted in U.S. stores between Nov. 27 and Dec. 15, 2013.
+"Target alerted authorities and financial institutions immediately
+after it was made aware of the unauthorized access, and is putting all
+appropriate resources behind these efforts," the chain said in a
+statement. "Among other actions, Target is partnering with a leading
+third-party forensics firm to conduct a thorough investigation of the incident."
+The Secret Service is
+investigating, according to a spokesman for the agency, which safeguards the
+nation's payment systems.
+Investigators believe the data was
+obtained via software installed on machines that customers use to swipe
+magnetic strips on their cards when paying for merchandise at Target stores,
+according to a person familiar with the matter who was not authorized to
+discuss it and declined to provide further details.
+Krebs on Security, a closely watched
+security industry blog that initially broke the news, said the breach involved nearly all
+of Target's 1,797 stores in the United States, citing sources at two credit
+card issuers.
+"When all is said and done,
+this one will put its mark up there with some of the largest retail breaches to
+date," the report cited an unnamed source as saying.
+The biggest credit card breach at a
+U.S. retailer reported to date was an attack against TJX Cos, the parent of TJ
+Maxx and Marshalls. The company disclosed in March 2007 that data from 45.7
+million payment cards had been stolen by hackers over 18 months. Banks later
+asserted in court documents the hackers could have obtained more than 94
+million account numbers.
+It is not yet clear how the
+attackers were able to compromise point-of-sales terminals at so many Target
+stores across the country. Doing so would have required careful planning by
+sophisticated cyber criminals.
+An American Express spokeswoman said
+the company is aware of the incident and is putting fraud controls in place.
+Representatives for Visa and
+MasterCard declined to comment.
+There are no indications that the
+theft affected shoppers on Target's website, Krebs reported.
+Trending News
+

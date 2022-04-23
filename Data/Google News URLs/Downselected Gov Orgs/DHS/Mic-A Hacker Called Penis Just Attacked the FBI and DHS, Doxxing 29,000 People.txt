@@ -1,0 +1,14 @@
+A Hacker Called "Penis" Just Attacked the FBI and DHS, Doxxing 29,000 People
+Impact
+By Jack Smith IV
+2.9.2016
+You can catch a lot of grief while working for the government, but one of the latest ways people torture public servants is constantly trying to hack them and release their personal information. Case in point: On Monday afternoon, a hacker going by the username "penis" on Twitter posted a giant internal database of government employees.
+Anyone could copy and save the plain-text database of over 29,000 names — 20,000 from the Department of Justice and 9,000 from Homeland Security. The password to unencrypt the whole thing was "lol."
+Twitter
+The hacker first gave the dump to Motherboard on Sunday night, sending the data to the news site right after the Super Bowl kickoff. At the top of the data dump was the text "Long Live Palestine, Long Live Gaza."
+It's barely a "hack." The way the documents were obtained was pretty elementary. First, a single DOJ email was "compromised," which could entail simply phishing for a password. "Penis" then likely used that email to impersonate that employee, reached out to that employee's colleagues and got access to the DOJ intranet, where the leaked information was waiting.
+At the top of the data dump was the text "Long Live Palestine, Long Live Gaza."
+The leak included names, job titles, phone numbers and email addresses, so there's very little to take advantage of in terms of committing identity theft or further impersonation. The Guardian reports that much of the information is out of date.
+As for the #FreePalestine bit, it's not clear that this hacking incident has moved the needle in terms of finding a just resolution for the conflict between Israelis and Palestinians. But hackers who find a juicy, attention-worthy target often shoot first and come up with glib political justifications later.
+The U.S. Department of Homeland Security and the Justice Department are currently investigating the hack.
+

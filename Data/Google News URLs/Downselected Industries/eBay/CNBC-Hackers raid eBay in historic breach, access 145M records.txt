@@ -1,0 +1,30 @@
+Hackers raid eBay in historic breach, access 145M records
+Published Thu, May 22 20146:01 AM EDT
+Updated Thu, May 22 20142:53 PM EDT
+Closing Bell
+EBay said that hackers raided its network three months ago ,  accessing some 145 million user records in what is poised to go  down as one of the biggest data breaches in history, based on the  number of accounts compromised.
+Following the disclosure, a spokeswoman for  Connecticut's attorney general said that the state is probing eBay's breach. Illinois and Florida will also be joining the inquiry, according to a spokeswoman for Illinois's attorney general.
+EBay advised customers to change their passwords immediately,  saying they were among the pieces of data stolen by cyber  criminals who carried out the attack between late February and  early March.
+EBay spokeswoman Amanda Miller told Reuters late on Wednesday  that those passwords were encrypted and that the company had no  reason to believe the hackers had broken the code that scrambled  them.
+Read More Who has the worst password  security?
+"There is no evidence of impact on any eBay customers," Miller  said. "We don't know that they decrypted the passwords because it  would not be easy to do."
+She said the hackers gained access to 145 million records of  which they copied "a large part". Those records contained  passwords as well as email addresses, birth dates, mailing  addresses and other personal information, but not financial data  such as credit card numbers.
+Miller also said the company has hired FireEye's Mandiant forensics division to help investigate  the matter. Mandiant is known for publishing a February 2013  report that described what it said was a Shanghai-based hacking  group linked to the Peoples Liberation Army.
+VIDEO1:5301:53
+Tech
+EBay earlier said a large number of accounts may have been  compromised, but declined to say how many.
+Security experts advised EBay customers to be on the alert for  fraud, especially if they used the same passwords for other  accounts.
+"People need to stop reusing passwords and should change their  affected passwords immediately across all the sites where they  are used," said Trey Ford, global security strategist with  cybersecurity firm Rapid7.
+Read More Heartbleed bug: Is  changing your password enough?
+Michael Coates, director of product security with Shape Security,  said there is a significant risk that the hackers would  unscramble the passwords because typically companies only ask  users to change passwords if they believe there is a reasonable  chance attackers may be able to do so.
+Still, eBay said it had not seen any indication of increased  fraudulent activity on its flagship site and that there was no  evidence its PayPal online payment service had been breached.
+EBay said the hackers got in after obtaining login credentials  for "a small number" of employees, allowing them to access eBay's  corporate network.
+Read More Can your fridge be  hacked in the 'Internet of things'?
+It discovered the breach in early May and immediately brought in  security experts and law enforcement to investigate, Miller said.
+"We worked aggressively and as quickly as possible to insure  accurate and thorough disclosure of the nature and extent of the  compromise," Miller said when asked why the company had not  immediately notified users.
+The breach could go down as the second-biggest in history at a  U.S. company, based on the number records accessed by the  hackers.
+Read More Lessons from Target's data breach  fumble
+Computer security experts say the biggest such breach was  uncovered at software maker Adobe  Systems in October 2013, when hackers accessed about 152  million user accounts.
+It would be larger than the one that Target disclosed in December of last year, which  included some 40 million payment card numbers and another 70  million customer records.
+—By Reuters with CNBC
+
